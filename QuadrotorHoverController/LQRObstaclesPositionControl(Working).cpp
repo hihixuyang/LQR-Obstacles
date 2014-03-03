@@ -26,7 +26,8 @@ NUM_POINTS		- The number of points that are sampled around the quadrotor's ellip
 XYRADIUS		- The minor radii of the quadrotors' bounding ellipsoid
 ZRADIUS			- The major radii of the quadrotors' bounding ellipsoid
 */
-#define NUM_QUADS 2		
+
+#define NUM_QUADS 6		
 #define FREQUENCY 30
 #define TIME_STEPS 7*FREQUENCY
 #define OBSTACLE_STEPS 30	
@@ -215,7 +216,7 @@ void setup() {
 
   // visualization setup
   CAL_Initialisation(true, true, true);
-  CAL_SetViewParams(0,5,18,15,0,0,0);
+  CAL_SetViewParams(0,0,0,20,0,0,0, 0, -1, 0);
   int obj;
   
   // Quadrotor
@@ -1176,7 +1177,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 	tempPGoal[0] = Four[0]; tempPGoal[1] = Four[1]; tempPGoal[2] = height;
 	pGoal.push_back(tempPGoal);
 	qlist[0]->setupQuadrotors(xInit, RotInit, Pinit, xGoal, pGoal[0], uGoal, RotGoal);
-	if(NUM_QUADS == 2) {
+	if(NUM_QUADS > 1) {
 		// Quadrotor 2
 		xInit[0] = Two[0]; xInit[1] = Two[1]; xInit[2] = height;
 		xInit[3] = 0.0; xInit[4] = 0.0; xInit[5] = 0.0;
@@ -1184,7 +1185,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 		pGoal.push_back(tempPGoal);
 		qlist[1]->setupQuadrotors(xInit, RotInit, Pinit, xGoal, pGoal[1], uGoal, RotGoal); 
 	}
-	else if(NUM_QUADS == 3) {
+	if(NUM_QUADS > 2) {
 		// Quadrotor 3
 		xInit[0] = Three[0]; xInit[1] = Three[1]; xInit[2] = height;
 		xInit[3] = 0.0; xInit[4] = 0.0; xInit[5] = 0.0;
@@ -1192,7 +1193,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 		pGoal.push_back(tempPGoal);
 		qlist[2]->setupQuadrotors(xInit, RotInit, Pinit, xGoal, pGoal[2], uGoal, RotGoal);
 	}
-	else if(NUM_QUADS == 4) {
+	if(NUM_QUADS > 3) {
 		// Quadrotor 4
 		xInit[0] = Four[0]; xInit[1] = Four[1]; xInit[2] = height;
 		xInit[3] = 0.0; xInit[4] = 0.0; xInit[5] = 0.0;
@@ -1200,7 +1201,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 		pGoal.push_back(tempPGoal);
 		qlist[3]->setupQuadrotors(xInit, RotInit, Pinit, xGoal, pGoal[3], uGoal, RotGoal);
 	}
-	else if(NUM_QUADS == 5) {
+	if(NUM_QUADS > 4) {
 		// Quadrotor 5
 		xInit[0] = Five[0]; xInit[1] = Five[1]; xInit[2] = height;
 		xInit[3] = 0.0; xInit[4] = 0.0; xInit[5] = 0;
@@ -1208,7 +1209,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 		pGoal.push_back(tempPGoal);
 		qlist[4]->setupQuadrotors(xInit, RotInit, Pinit, xGoal, pGoal[4], uGoal, RotGoal);
 	}
-	else if(NUM_QUADS == 6) {
+	if(NUM_QUADS > 5) {
 		// Quadrotor 6
 		xInit[0] = Six[0]; xInit[1] = Six[1]; xInit[2] = height;
 		xInit[3] = 0.0; xInit[4] = 0.0; xInit[5] = 0;
