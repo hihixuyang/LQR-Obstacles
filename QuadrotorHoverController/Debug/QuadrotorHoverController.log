@@ -1,0 +1,178 @@
+﻿Build started 4/10/13 11:51:18 AM.
+     1>Project "C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\QuadrotorHoverController.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Bullet\bullet-2.81-rev2613\src" /IC:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\include /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "LQRObstaclesPositionControl(Working).cpp" gjk.cpp stdafx.cpp
+         stdafx.cpp
+         gjk.cpp
+         LQRObstaclesPositionControl(Working).cpp
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\vector3.h(115): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\vector3.h(116): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\vector3.h(117): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(219): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(219): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(219): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(220): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(220): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(220): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(221): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(221): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(221): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(240): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(241): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(241): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(241): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(241): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(243): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(244): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(244): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(244): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(244): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(246): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(247): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(247): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(247): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(247): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(249): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(250): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(250): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(250): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(253): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(255): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(255): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(256): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(256): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(258): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(258): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(260): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(260): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(263): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(265): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(266): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(266): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(267): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(267): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(270): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(270): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(273): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(274): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(274): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(275): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(275): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(276): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(277): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(277): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(278): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(278): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(281): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(282): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(282): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(283): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(283): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(284): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(285): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(285): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(286): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(286): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(289): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(290): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(290): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(291): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(291): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(292): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(293): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(293): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(294): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(294): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(308): warning C4305: 'argument' : truncation from 'double' to 'CAL_scalar'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(308): warning C4305: 'argument' : truncation from 'double' to 'CAL_scalar'
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(804): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(832): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(868): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(891): warning C4101: 'index' : unreferenced local variable
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(931): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1113): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1114): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1116): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1127): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1210): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1442): warning C4101: 'halfPlaneVector' : unreferenced local variable
+     1>c:\users\daman\documents\github\arl_lqrsimulator\quadsim\quadrotorhovercontroller\lqrobstaclespositioncontrol(working).cpp(1441): warning C4101: 'numVertices' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\QuadrotorHoverController.exe.embed.manifest.res" Debug\QuadrotorHoverController_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\Debug\QuadrotorHoverController.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Callisto /LIBPATH:C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\lib /LIBPATH:..\..\lib /LIBPATH:"C:\Bullet\bullet-2.81-rev2613\lib" callisto.lib BulletCollision_vs2010.lib BulletDynamics_vs2010.lib LinearMath_vs2010.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\QuadrotorHoverController.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\Debug\QuadrotorHoverController.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\Debug\QuadrotorHoverController.lib" /MACHINE:X86 Debug\QuadrotorHoverController.exe.embed.manifest.res
+         Debug\gjk.obj
+         "Debug\LQRObstaclesPositionControl(Working).obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\QuadrotorHoverController.exe.embed.manifest" /manifest Debug\QuadrotorHoverController.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         QuadrotorHoverController.vcxproj -> C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\Debug\QuadrotorHoverController.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\QuadrotorHoverController.unsuccessfulbuild".
+         Touching "Debug\QuadrotorHoverController.lastbuildstate".
+     1>Done Building Project "C:\Users\Daman\Documents\GitHub\arl_LQRSimulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.11

@@ -1,0 +1,13 @@
+﻿Build started 2/10/2012 12:31:27 AM.
+     1>Project "C:\Users\Daman\Documents\1_U of U\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\QuadrotorHoverController.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\QuadrotorHoverController.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\QuadRotorHoverController(nRotors).cpp"
+         QuadRotorHoverController(nRotors).cpp
+     1>c:\users\daman\documents\1_u of u\arl stuff\jur's simulator\quadsim\quadrotorhovercontroller\quadrotorhovercontroller\simulator.h(1): fatal error C1014: too many include files : depth = 1024
+     1>Done Building Project "C:\Users\Daman\Documents\1_U of U\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\QuadrotorHoverController.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.62

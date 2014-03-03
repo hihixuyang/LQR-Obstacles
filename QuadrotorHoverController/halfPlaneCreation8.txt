@@ -1,0 +1,4200 @@
+Time Step: 0
+Quadrotor 0 to 1: 0.0552401
+Time Step: 0
+Quadrotor 0 to 2: 0.0344119
+Time Step: 0
+Quadrotor 0 to 3: 0.0374304
+Time Step: 0
+Quadrotor 0 to 4: 0.0356193
+Time Step: 0
+Quadrotor 0 to 5: 0.0353174
+Time Step: 0
+Quadrotor 0 to 6: 0.0316951
+Time Step: 0
+Quadrotor 0 to 7: 0.0250542
+Time Step: 1
+Quadrotor 0 to 1: 0.0380342
+Time Step: 1
+Quadrotor 0 to 2: 0.0332044
+Time Step: 1
+Quadrotor 0 to 3: 0.0344119
+Time Step: 1
+Quadrotor 0 to 4: 0.0329026
+Time Step: 1
+Quadrotor 0 to 5: 0.0247524
+Time Step: 1
+Quadrotor 0 to 6: 0.0398453
+Time Step: 1
+Quadrotor 0 to 7: 0.0229412
+Time Step: 2
+Quadrotor 0 to 1: 0.0386379
+Time Step: 2
+Quadrotor 0 to 2: 0.0338081
+Time Step: 2
+Quadrotor 0 to 3: 0.0377323
+Time Step: 2
+Quadrotor 0 to 4: 0.0359211
+Time Step: 2
+Quadrotor 0 to 5: 0.0271673
+Time Step: 2
+Quadrotor 0 to 6: 0.0434676
+Time Step: 2
+Quadrotor 0 to 7: 0.0250542
+Time Step: 3
+Quadrotor 0 to 1: 0.0371286
+Time Step: 3
+Quadrotor 0 to 2: 0.0338081
+Time Step: 3
+Quadrotor 0 to 3: 0.0368267
+Time Step: 3
+Quadrotor 0 to 4: 0.0350156
+Time Step: 3
+Quadrotor 0 to 5: 0.0262617
+Time Step: 3
+Quadrotor 0 to 6: 0.042562
+Time Step: 3
+Quadrotor 0 to 7: 0.0244505
+Time Step: 4
+Quadrotor 0 to 1: 0.0365249
+Time Step: 4
+Quadrotor 0 to 2: 0.0332044
+Time Step: 4
+Quadrotor 0 to 3: 0.036223
+Time Step: 4
+Quadrotor 0 to 4: 0.0344119
+Time Step: 4
+Quadrotor 0 to 5: 0.0262617
+Time Step: 4
+Quadrotor 0 to 6: 0.042562
+Time Step: 4
+Quadrotor 0 to 7: 0.0241487
+Time Step: 5
+Quadrotor 0 to 1: 0.036223
+Time Step: 5
+Quadrotor 0 to 2: 0.0322988
+Time Step: 5
+Quadrotor 0 to 3: 0.0350156
+Time Step: 5
+Quadrotor 0 to 4: 0.0338081
+Time Step: 5
+Quadrotor 0 to 5: 0.0259598
+Time Step: 5
+Quadrotor 0 to 6: 0.0416565
+Time Step: 5
+Quadrotor 0 to 7: 0.023545
+Time Step: 6
+Quadrotor 0 to 1: 0.0359211
+Time Step: 6
+Quadrotor 0 to 2: 0.0437695
+Time Step: 6
+Quadrotor 0 to 3: 0.0356193
+Time Step: 6
+Quadrotor 0 to 4: 0.03411
+Time Step: 6
+Quadrotor 0 to 5: 0.0259598
+Time Step: 6
+Quadrotor 0 to 6: 0.0416565
+Time Step: 6
+Quadrotor 0 to 7: 0.0395434
+Time Step: 7
+Quadrotor 0 to 1: 0.0265635
+Time Step: 7
+Quadrotor 0 to 2: 0.0552401
+Time Step: 7
+Quadrotor 0 to 3: 0.0356193
+Time Step: 7
+Quadrotor 0 to 4: 0.0335063
+Time Step: 7
+Quadrotor 0 to 5: 0.0347137
+Time Step: 7
+Quadrotor 0 to 6: 0.0419583
+Time Step: 7
+Quadrotor 0 to 7: 0.0238468
+Time Step: 8
+Quadrotor 0 to 1: 0.038336
+Time Step: 8
+Quadrotor 0 to 2: 0.0573531
+Time Step: 8
+Quadrotor 0 to 3: 0.0377323
+Time Step: 8
+Quadrotor 0 to 4: 0.0356193
+Time Step: 8
+Quadrotor 0 to 5: 0.0371286
+Time Step: 8
+Quadrotor 0 to 6: 0.0443732
+Time Step: 8
+Quadrotor 0 to 7: 0.0250542
+Time Step: 9
+Quadrotor 0 to 1: 0.0368267
+Time Step: 9
+Quadrotor 0 to 2: 0.0552401
+Time Step: 9
+Quadrotor 0 to 3: 0.0265635
+Time Step: 9
+Quadrotor 0 to 4: 0.0353174
+Time Step: 9
+Quadrotor 0 to 5: 0.0371286
+Time Step: 9
+Quadrotor 0 to 6: 0.0443732
+Time Step: 9
+Quadrotor 0 to 7: 0.0259598
+Time Step: 10
+Quadrotor 0 to 1: 0.0359211
+Time Step: 10
+Quadrotor 0 to 2: 0.0534289
+Time Step: 10
+Quadrotor 0 to 3: 0.0259598
+Time Step: 10
+Quadrotor 0 to 4: 0.0329026
+Time Step: 10
+Quadrotor 0 to 5: 0.0344119
+Time Step: 10
+Quadrotor 0 to 6: 0.0513159
+Time Step: 10
+Quadrotor 0 to 7: 0.0313933
+Time Step: 11
+Quadrotor 0 to 1: 0.0274691
+Time Step: 11
+Quadrotor 0 to 2: 0.0555419
+Time Step: 11
+Quadrotor 0 to 3: 0.0265635
+Time Step: 11
+Quadrotor 0 to 4: 0.0338081
+Time Step: 11
+Quadrotor 0 to 5: 0.0350156
+Time Step: 11
+Quadrotor 0 to 6: 0.0313933
+Time Step: 11
+Quadrotor 0 to 7: 0.0322988
+Time Step: 12
+Quadrotor 0 to 1: 0.0377323
+Time Step: 12
+Quadrotor 0 to 2: 0.0525234
+Time Step: 12
+Quadrotor 0 to 3: 0.0262617
+Time Step: 12
+Quadrotor 0 to 4: 0.03411
+Time Step: 12
+Quadrotor 0 to 5: 0.0265635
+Time Step: 12
+Quadrotor 0 to 6: 0.0313933
+Time Step: 12
+Quadrotor 0 to 7: 0.0368267
+Time Step: 13
+Quadrotor 0 to 1: 0.0356193
+Time Step: 13
+Quadrotor 0 to 2: 0.0546364
+Time Step: 13
+Quadrotor 0 to 3: 0.025658
+Time Step: 13
+Quadrotor 0 to 4: 0.0428639
+Time Step: 13
+Quadrotor 0 to 5: 0.0262617
+Time Step: 13
+Quadrotor 0 to 6: 0.0495048
+Time Step: 13
+Quadrotor 0 to 7: 0.0322988
+Time Step: 14
+Quadrotor 0 to 1: 0.027771
+Time Step: 14
+Quadrotor 0 to 2: 0.03411
+Time Step: 14
+Quadrotor 0 to 3: 0.027771
+Time Step: 14
+Quadrotor 0 to 4: 0.044675
+Time Step: 14
+Quadrotor 0 to 5: 0.0262617
+Time Step: 14
+Quadrotor 0 to 6: 0.0416565
+Time Step: 14
+Quadrotor 0 to 7: 0.0335063
+Time Step: 15
+Quadrotor 0 to 1: 0.0374304
+Time Step: 15
+Quadrotor 0 to 2: 0.040449
+Time Step: 15
+Quadrotor 0 to 3: 0.0271673
+Time Step: 15
+Quadrotor 0 to 4: 0.03411
+Time Step: 15
+Quadrotor 0 to 5: 0.0274691
+Time Step: 15
+Quadrotor 0 to 6: 0.0422602
+Time Step: 15
+Quadrotor 0 to 7: 0.0329026
+Time Step: 16
+Quadrotor 0 to 1: 0.0365249
+Time Step: 16
+Quadrotor 0 to 2: 0.0332044
+Time Step: 16
+Quadrotor 0 to 3: 0.0268654
+Time Step: 16
+Quadrotor 0 to 4: 0.03411
+Time Step: 16
+Quadrotor 0 to 5: 0.0268654
+Time Step: 16
+Quadrotor 0 to 6: 0.042562
+Time Step: 16
+Quadrotor 0 to 7: 0.036223
+Time Step: 17
+Quadrotor 0 to 1: 0.0286765
+Time Step: 17
+Quadrotor 0 to 2: 0.0332044
+Time Step: 17
+Quadrotor 0 to 3: 0.0283747
+Time Step: 17
+Quadrotor 0 to 4: 0.0259598
+Time Step: 17
+Quadrotor 0 to 5: 0.0271673
+Time Step: 17
+Quadrotor 0 to 6: 0.0510141
+Time Step: 17
+Quadrotor 0 to 7: 0.0332044
+Time Step: 18
+Quadrotor 0 to 1: 0.0280728
+Time Step: 18
+Quadrotor 0 to 2: 0.0440713
+Time Step: 18
+Quadrotor 0 to 3: 0.0350156
+Time Step: 18
+Quadrotor 0 to 4: 0.025658
+Time Step: 18
+Quadrotor 0 to 5: 0.0271673
+Time Step: 18
+Quadrotor 0 to 6: 0.0422602
+Time Step: 18
+Quadrotor 0 to 7: 0.0329026
+Time Step: 19
+Quadrotor 0 to 1: 0.0365249
+Time Step: 19
+Quadrotor 0 to 2: 0.042562
+Time Step: 19
+Quadrotor 0 to 3: 0.0268654
+Time Step: 19
+Quadrotor 0 to 4: 0.0338081
+Time Step: 19
+Quadrotor 0 to 5: 0.036223
+Time Step: 19
+Quadrotor 0 to 6: 0.0416565
+Time Step: 19
+Quadrotor 0 to 7: 0.0326007
+Time Step: 20
+Quadrotor 0 to 1: 0.0386379
+Time Step: 20
+Quadrotor 0 to 2: 0.0437695
+Time Step: 20
+Quadrotor 0 to 3: 0.0473918
+Time Step: 20
+Quadrotor 0 to 4: 0.0271673
+Time Step: 20
+Quadrotor 0 to 5: 0.027771
+Time Step: 20
+Quadrotor 0 to 6: 0.0437695
+Time Step: 20
+Quadrotor 0 to 7: 0.025658
+Time Step: 21
+Quadrotor 0 to 1: 0.0386379
+Time Step: 21
+Quadrotor 0 to 2: 0.0440713
+Time Step: 21
+Quadrotor 0 to 3: 0.0280728
+Time Step: 21
+Quadrotor 0 to 4: 0.0265635
+Time Step: 21
+Quadrotor 0 to 5: 0.0271673
+Time Step: 21
+Quadrotor 0 to 6: 0.0422602
+Time Step: 21
+Quadrotor 0 to 7: 0.0253561
+Time Step: 22
+Quadrotor 0 to 1: 0.0582587
+Time Step: 22
+Quadrotor 0 to 2: 0.0564475
+Time Step: 22
+Quadrotor 0 to 3: 0.0286765
+Time Step: 22
+Quadrotor 0 to 4: 0.0271673
+Time Step: 22
+Quadrotor 0 to 5: 0.027771
+Time Step: 22
+Quadrotor 0 to 6: 0.0428639
+Time Step: 22
+Quadrotor 0 to 7: 0.0265635
+Time Step: 23
+Quadrotor 0 to 1: 0.0419583
+Time Step: 23
+Quadrotor 0 to 2: 0.0573531
+Time Step: 23
+Quadrotor 0 to 3: 0.0289784
+Time Step: 23
+Quadrotor 0 to 4: 0.0274691
+Time Step: 23
+Quadrotor 0 to 5: 0.0283747
+Time Step: 23
+Quadrotor 0 to 6: 0.0543345
+Time Step: 23
+Quadrotor 0 to 7: 0.0268654
+Time Step: 24
+Quadrotor 0 to 1: 0.0522215
+Time Step: 24
+Quadrotor 0 to 2: 0.0570512
+Time Step: 24
+Quadrotor 0 to 3: 0.0495048
+Time Step: 24
+Quadrotor 0 to 4: 0.027771
+Time Step: 24
+Quadrotor 0 to 5: 0.0289784
+Time Step: 24
+Quadrotor 0 to 6: 0.0543345
+Time Step: 24
+Quadrotor 0 to 7: 0.0353174
+Time Step: 25
+Quadrotor 0 to 1: 0.0498066
+Time Step: 25
+Quadrotor 0 to 2: 0.0555419
+Time Step: 25
+Quadrotor 0 to 3: 0.0489011
+Time Step: 25
+Quadrotor 0 to 4: 0.0274691
+Time Step: 25
+Quadrotor 0 to 5: 0.0283747
+Time Step: 25
+Quadrotor 0 to 6: 0.0534289
+Time Step: 25
+Quadrotor 0 to 7: 0.025658
+Time Step: 26
+Quadrotor 0 to 1: 0.0528252
+Time Step: 26
+Quadrotor 0 to 2: 0.0833129
+Time Step: 26
+Quadrotor 0 to 3: 0.0624847
+Time Step: 26
+Quadrotor 0 to 4: 0.0386379
+Time Step: 26
+Quadrotor 0 to 5: 0.040449
+Time Step: 26
+Quadrotor 0 to 6: 0.0558438
+Time Step: 26
+Quadrotor 0 to 7: 0.0365249
+Time Step: 27
+Quadrotor 0 to 1: 0.0739553
+Time Step: 27
+Quadrotor 0 to 2: 0.0691256
+Time Step: 27
+Quadrotor 0 to 3: 0.0401472
+Time Step: 27
+Quadrotor 0 to 4: 0.0389397
+Time Step: 27
+Quadrotor 0 to 5: 0.040449
+Time Step: 27
+Quadrotor 0 to 6: 0.0546364
+Time Step: 27
+Quadrotor 0 to 7: 0.036223
+Time Step: 28
+Quadrotor 0 to 1: 0.0621828
+Time Step: 28
+Quadrotor 0 to 2: 0.076672
+Time Step: 28
+Quadrotor 0 to 3: 0.0392416
+Time Step: 28
+Quadrotor 0 to 4: 0.0365249
+Time Step: 28
+Quadrotor 0 to 5: 0.0380342
+Time Step: 28
+Quadrotor 0 to 6: 0.0504103
+Time Step: 28
+Quadrotor 0 to 7: 0.0350156
+Time Step: 29
+Quadrotor 0 to 1: 0.0522215
+Time Step: 29
+Quadrotor 0 to 2: 0.0796906
+Time Step: 29
+Quadrotor 0 to 3: 0.0609754
+Time Step: 29
+Quadrotor 0 to 4: 0.0476936
+Time Step: 29
+Quadrotor 0 to 5: 0.0392416
+Time Step: 29
+Quadrotor 0 to 6: 0.0422602
+Time Step: 29
+Quadrotor 0 to 7: 0.0359211
+Time Step: 30
+Quadrotor 0 to 1: 0.0428639
+Time Step: 30
+Quadrotor 0 to 2: 0.0555419
+Time Step: 30
+Quadrotor 0 to 3: 0.0501085
+Time Step: 30
+Quadrotor 0 to 4: 0.0476936
+Time Step: 30
+Quadrotor 0 to 5: 0.0398453
+Time Step: 30
+Quadrotor 0 to 6: 0.0416565
+Time Step: 30
+Quadrotor 0 to 7: 0.0365249
+Time Step: 31
+Quadrotor 0 to 1: 0.0540326
+Time Step: 31
+Quadrotor 0 to 2: 0.0567494
+Time Step: 31
+Quadrotor 0 to 3: 0.0510141
+Time Step: 31
+Quadrotor 0 to 4: 0.0380342
+Time Step: 31
+Quadrotor 0 to 5: 0.0501085
+Time Step: 31
+Quadrotor 0 to 6: 0.0422602
+Time Step: 31
+Quadrotor 0 to 7: 0.0368267
+Time Step: 32
+Quadrotor 0 to 1: 0.0546364
+Time Step: 32
+Quadrotor 0 to 2: 0.0685218
+Time Step: 32
+Quadrotor 0 to 3: 0.0407509
+Time Step: 32
+Quadrotor 0 to 4: 0.0492029
+Time Step: 32
+Quadrotor 0 to 5: 0.0516178
+Time Step: 32
+Quadrotor 0 to 6: 0.0416565
+Time Step: 32
+Quadrotor 0 to 7: 0.0368267
+Time Step: 33
+Quadrotor 0 to 1: 0.0757664
+Time Step: 33
+Quadrotor 0 to 2: 0.0688237
+Time Step: 33
+Quadrotor 0 to 3: 0.0525234
+Time Step: 33
+Quadrotor 0 to 4: 0.0489011
+Time Step: 33
+Quadrotor 0 to 5: 0.0727479
+Time Step: 33
+Quadrotor 0 to 6: 0.0416565
+Time Step: 33
+Quadrotor 0 to 7: 0.0371286
+Time Step: 34
+Quadrotor 0 to 1: 0.117725
+Time Step: 34
+Quadrotor 0 to 2: 0.06822
+Time Step: 34
+Quadrotor 0 to 3: 0.063994
+Time Step: 34
+Quadrotor 0 to 4: 0.0492029
+Time Step: 34
+Quadrotor 0 to 5: 0.0516178
+Time Step: 34
+Quadrotor 0 to 6: 0.0413546
+Time Step: 34
+Quadrotor 0 to 7: 0.0371286
+Time Step: 35
+Quadrotor 0 to 1: 0.113197
+Time Step: 35
+Quadrotor 0 to 2: 0.0685218
+Time Step: 35
+Quadrotor 0 to 3: 0.111084
+Time Step: 35
+Quadrotor 0 to 4: 0.059768
+Time Step: 35
+Quadrotor 0 to 5: 0.0528252
+Time Step: 35
+Quadrotor 0 to 6: 0.0410527
+Time Step: 35
+Quadrotor 0 to 7: 0.0377323
+Time Step: 36
+Quadrotor 0 to 1: 0.123762
+Time Step: 36
+Quadrotor 0 to 2: 0.0824073
+Time Step: 36
+Quadrotor 0 to 3: 46.335
+Time Step: 36
+Quadrotor 0 to 4: 0.0567494
+Time Step: 36
+Quadrotor 0 to 5: 0.0558438
+Time Step: 36
+Quadrotor 0 to 6: 0.0434676
+Time Step: 36
+Quadrotor 0 to 7: 0.0498066
+Time Step: 37
+Quadrotor 0 to 1: 0.113801
+Time Step: 37
+Quadrotor 0 to 2: 0.0815018
+Time Step: 37
+Quadrotor 0 to 3: 50.1254
+Time Step: 37
+Quadrotor 0 to 4: 0.0796906
+Time Step: 37
+Quadrotor 0 to 5: 0.0555419
+Time Step: 37
+Quadrotor 0 to 6: 0.0437695
+Time Step: 37
+Quadrotor 0 to 7: 0.0510141
+Time Step: 38
+Quadrotor 0 to 1: 0.124366
+Time Step: 38
+Quadrotor 0 to 2: 0.0579568
+Time Step: 38
+Quadrotor 0 to 3: 45.6132
+Time Step: 38
+Quadrotor 0 to 4: 0.0570512
+Time Step: 38
+Quadrotor 0 to 5: 0.0558438
+Time Step: 38
+Quadrotor 0 to 6: 0.042562
+Time Step: 38
+Quadrotor 0 to 7: 0.040449
+Time Step: 39
+Quadrotor 0 to 1: 0.129195
+Time Step: 39
+Quadrotor 0 to 2: 0.0588624
+Time Step: 39
+Quadrotor 0 to 3: 46.4168
+Time Step: 39
+Quadrotor 0 to 4: 0.0658051
+Time Step: 39
+Quadrotor 0 to 5: 0.0437695
+Time Step: 39
+Quadrotor 0 to 6: 0.0416565
+Time Step: 39
+Quadrotor 0 to 7: 0.0395434
+Time Step: 40
+Quadrotor 0 to 1: 0.114102
+Time Step: 40
+Quadrotor 0 to 2: 0.0579568
+Time Step: 40
+Quadrotor 0 to 3: 47.1014
+Time Step: 40
+Quadrotor 0 to 4: 0.0564475
+Time Step: 40
+Quadrotor 0 to 5: 0.0434676
+Time Step: 40
+Quadrotor 0 to 6: 0.0401472
+Time Step: 40
+Quadrotor 0 to 7: 0.0401472
+Time Step: 41
+Quadrotor 0 to 1: 0.117423
+Time Step: 41
+Quadrotor 0 to 2: 0.0594661
+Time Step: 41
+Quadrotor 0 to 3: 48.7876
+Time Step: 41
+Quadrotor 0 to 4: 0.0552401
+Time Step: 41
+Quadrotor 0 to 5: 0.0443732
+Time Step: 41
+Quadrotor 0 to 6: 0.0407509
+Time Step: 41
+Quadrotor 0 to 7: 0.0401472
+Time Step: 42
+Quadrotor 0 to 1: 0.140062
+Time Step: 42
+Quadrotor 0 to 2: 0.0706349
+Time Step: 42
+Quadrotor 0 to 3: 47.9888
+Time Step: 42
+Quadrotor 0 to 4: 0.0558438
+Time Step: 42
+Quadrotor 0 to 5: 0.0652014
+Time Step: 42
+Quadrotor 0 to 6: 0.0570512
+Time Step: 42
+Quadrotor 0 to 7: 0.040449
+Time Step: 43
+Quadrotor 0 to 1: 0.161796
+Time Step: 43
+Quadrotor 0 to 2: 0.070333
+Time Step: 43
+Quadrotor 0 to 3: 47.9052
+Time Step: 43
+Quadrotor 0 to 4: 0.0633903
+Time Step: 43
+Quadrotor 0 to 5: 0.0558438
+Time Step: 43
+Quadrotor 0 to 6: 0.0419583
+Time Step: 43
+Quadrotor 0 to 7: 0.0419583
+Time Step: 44
+Quadrotor 0 to 1: 0.156664
+Time Step: 44
+Quadrotor 0 to 2: 0.0718423
+Time Step: 44
+Quadrotor 0 to 3: 48.3245
+Time Step: 44
+Quadrotor 0 to 4: 0.0673144
+Time Step: 44
+Quadrotor 0 to 5: 0.0543345
+Time Step: 44
+Quadrotor 0 to 6: 0.0407509
+Time Step: 44
+Quadrotor 0 to 7: 0.0513159
+Time Step: 45
+Quadrotor 0 to 1: 0.143383
+Time Step: 45
+Quadrotor 0 to 2: 0.0573531
+Time Step: 45
+Quadrotor 0 to 3: 49.2008
+Time Step: 45
+Quadrotor 0 to 4: 0.0691256
+Time Step: 45
+Quadrotor 0 to 5: 0.0543345
+Time Step: 45
+Quadrotor 0 to 6: 0.0416565
+Time Step: 45
+Quadrotor 0 to 7: 0.0528252
+Time Step: 46
+Quadrotor 0 to 1: 0.126177
+Time Step: 46
+Quadrotor 0 to 2: 0.0842185
+Time Step: 46
+Quadrotor 0 to 3: 46.865
+Time Step: 46
+Quadrotor 0 to 4: 0.0694274
+Time Step: 46
+Quadrotor 0 to 5: 0.0549382
+Time Step: 46
+Quadrotor 0 to 6: 0.0507122
+Time Step: 46
+Quadrotor 0 to 7: 0.0422602
+Time Step: 47
+Quadrotor 0 to 1: 0.146401
+Time Step: 47
+Quadrotor 0 to 2: 0.072446
+Time Step: 47
+Quadrotor 0 to 3: 47.31
+Time Step: 47
+Quadrotor 0 to 4: 0.0679181
+Time Step: 47
+Quadrotor 0 to 5: 0.0546364
+Time Step: 47
+Quadrotor 0 to 6: 0.0492029
+Time Step: 47
+Quadrotor 0 to 7: 0.0410527
+Time Step: 48
+Quadrotor 0 to 1: 0.115914
+Time Step: 48
+Quadrotor 0 to 2: 0.0688237
+Time Step: 48
+Quadrotor 0 to 3: 49.3816
+Time Step: 48
+Quadrotor 0 to 4: 0.0570512
+Time Step: 48
+Quadrotor 0 to 5: 0.0549382
+Time Step: 48
+Quadrotor 0 to 6: 0.0392416
+Time Step: 48
+Quadrotor 0 to 7: 0.0416565
+Time Step: 49
+Quadrotor 0 to 1: 0.155155
+Time Step: 49
+Quadrotor 0 to 2: 0.0709367
+Time Step: 49
+Quadrotor 0 to 3: 47.3398
+Time Step: 49
+Quadrotor 0 to 4: 0.0476936
+Time Step: 49
+Quadrotor 0 to 5: 0.0679181
+Time Step: 49
+Quadrotor 0 to 6: 0.0398453
+Time Step: 49
+Quadrotor 0 to 7: 0.0428639
+Time Step: 50
+Quadrotor 0 to 1: 0.151231
+Time Step: 50
+Quadrotor 0 to 2: 0.0730497
+Time Step: 50
+Quadrotor 0 to 3: 0.136138
+Time Step: 50
+Quadrotor 0 to 4: 0.0452788
+Time Step: 50
+Quadrotor 0 to 5: 0.0685218
+Time Step: 50
+Quadrotor 0 to 6: 0.0401472
+Time Step: 50
+Quadrotor 0 to 7: 0.0440713
+Time Step: 51
+Quadrotor 0 to 1: 0.122856
+Time Step: 51
+Quadrotor 0 to 2: 0.070333
+Time Step: 51
+Quadrotor 0 to 3: 0.122554
+Time Step: 51
+Quadrotor 0 to 4: 0.0437695
+Time Step: 51
+Quadrotor 0 to 5: 0.0561457
+Time Step: 51
+Quadrotor 0 to 6: 0.0386379
+Time Step: 51
+Quadrotor 0 to 7: 0.042562
+Time Step: 52
+Quadrotor 0 to 1: 0.134327
+Time Step: 52
+Quadrotor 0 to 2: 0.0712386
+Time Step: 52
+Quadrotor 0 to 3: 0.0950854
+Time Step: 52
+Quadrotor 0 to 4: 0.0440713
+Time Step: 52
+Quadrotor 0 to 5: 0.0573531
+Time Step: 52
+Quadrotor 0 to 6: 0.0377323
+Time Step: 52
+Quadrotor 0 to 7: 0.0422602
+Time Step: 53
+Quadrotor 0 to 1: 0.120441
+Time Step: 53
+Quadrotor 0 to 2: 0.0815018
+Time Step: 53
+Quadrotor 0 to 3: 0.105349
+Time Step: 53
+Quadrotor 0 to 4: 0.0534289
+Time Step: 53
+Quadrotor 0 to 5: 0.066107
+Time Step: 53
+Quadrotor 0 to 6: 0.0368267
+Time Step: 53
+Quadrotor 0 to 7: 0.0413546
+Time Step: 54
+Quadrotor 0 to 1: 0.110178
+Time Step: 54
+Quadrotor 0 to 2: 0.0815018
+Time Step: 54
+Quadrotor 0 to 3: 0.093878
+Time Step: 54
+Quadrotor 0 to 4: 0.0543345
+Time Step: 54
+Quadrotor 0 to 5: 0.0558438
+Time Step: 54
+Quadrotor 0 to 6: 0.0365249
+Time Step: 54
+Quadrotor 0 to 7: 0.0416565
+Time Step: 55
+Quadrotor 0 to 1: 0.12014
+Time Step: 55
+Quadrotor 0 to 2: 0.0815018
+Time Step: 55
+Quadrotor 0 to 3: 0.0827092
+Time Step: 55
+Quadrotor 0 to 4: 0.0422602
+Time Step: 55
+Quadrotor 0 to 5: 0.0555419
+Time Step: 55
+Quadrotor 0 to 6: 0.0368267
+Time Step: 55
+Quadrotor 0 to 7: 0.0413546
+Time Step: 56
+Quadrotor 0 to 1: 0.119536
+Time Step: 56
+Quadrotor 0 to 2: 0.0793887
+Time Step: 56
+Quadrotor 0 to 3: 0.0709367
+Time Step: 56
+Quadrotor 0 to 4: 0.070333
+Time Step: 56
+Quadrotor 0 to 5: 0.0676163
+Time Step: 56
+Quadrotor 0 to 6: 0.0368267
+Time Step: 56
+Quadrotor 0 to 7: 0.0416565
+Time Step: 57
+Quadrotor 0 to 1: 0.0712386
+Time Step: 57
+Quadrotor 0 to 2: 0.0769739
+Time Step: 57
+Quadrotor 0 to 3: 0.0691256
+Time Step: 57
+Quadrotor 0 to 4: 0.0516178
+Time Step: 57
+Quadrotor 0 to 5: 0.066107
+Time Step: 57
+Quadrotor 0 to 6: 0.0359211
+Time Step: 57
+Quadrotor 0 to 7: 0.040449
+Time Step: 58
+Quadrotor 0 to 1: 0.0947835
+Time Step: 58
+Quadrotor 0 to 2: 0.06822
+Time Step: 58
+Quadrotor 0 to 3: 0.0935761
+Time Step: 58
+Quadrotor 0 to 4: 0.0519196
+Time Step: 58
+Quadrotor 0 to 5: 0.114404
+Time Step: 58
+Quadrotor 0 to 6: 0.0353174
+Time Step: 58
+Quadrotor 0 to 7: 0.0407509
+Time Step: 59
+Quadrotor 0 to 1: 0.0872371
+Time Step: 59
+Quadrotor 0 to 2: 0.0721441
+Time Step: 59
+Quadrotor 0 to 3: 0.0712386
+Time Step: 59
+Quadrotor 0 to 4: 0.0522215
+Time Step: 59
+Quadrotor 0 to 5: 0.0694274
+Time Step: 59
+Quadrotor 0 to 6: 0.0347137
+Time Step: 59
+Quadrotor 0 to 7: 0.0410527
+Time Step: 60
+Quadrotor 0 to 1: 0.0630884
+Time Step: 60
+Quadrotor 0 to 2: 0.059768
+Time Step: 60
+Quadrotor 0 to 3: 0.0733516
+Time Step: 60
+Quadrotor 0 to 4: 0.0534289
+Time Step: 60
+Quadrotor 0 to 5: 0.0836148
+Time Step: 60
+Quadrotor 0 to 6: 0.0365249
+Time Step: 60
+Quadrotor 0 to 7: 0.0419583
+Time Step: 61
+Quadrotor 0 to 1: 0.0878408
+Time Step: 61
+Quadrotor 0 to 2: 0.0685218
+Time Step: 61
+Quadrotor 0 to 3: 0.0815018
+Time Step: 61
+Quadrotor 0 to 4: 0.0504103
+Time Step: 61
+Quadrotor 0 to 5: 0.0679181
+Time Step: 61
+Quadrotor 0 to 6: 0.03411
+Time Step: 61
+Quadrotor 0 to 7: 0.0416565
+Time Step: 62
+Quadrotor 0 to 1: 0.0911612
+Time Step: 62
+Quadrotor 0 to 2: 0.074559
+Time Step: 62
+Quadrotor 0 to 3: 0.0754646
+Time Step: 62
+Quadrotor 0 to 4: 0.0552401
+Time Step: 62
+Quadrotor 0 to 5: 0.0805962
+Time Step: 62
+Quadrotor 0 to 6: 0.036223
+Time Step: 62
+Quadrotor 0 to 7: 0.0443732
+Time Step: 63
+Quadrotor 0 to 1: 0.0627865
+Time Step: 63
+Quadrotor 0 to 2: 0.083011
+Time Step: 63
+Quadrotor 0 to 3: 0.059768
+Time Step: 63
+Quadrotor 0 to 4: 0.0510141
+Time Step: 63
+Quadrotor 0 to 5: 0.0827092
+Time Step: 63
+Quadrotor 0 to 6: 0.0353174
+Time Step: 63
+Quadrotor 0 to 7: 0.042562
+Time Step: 64
+Quadrotor 0 to 1: 0.0748609
+Time Step: 64
+Quadrotor 0 to 2: 0.0821055
+Time Step: 64
+Quadrotor 0 to 3: 0.078785
+Time Step: 64
+Quadrotor 0 to 4: 0.0498066
+Time Step: 64
+Quadrotor 0 to 5: 0.0818036
+Time Step: 64
+Quadrotor 0 to 6: 0.0507122
+Time Step: 64
+Quadrotor 0 to 7: 0.042562
+Time Step: 65
+Quadrotor 0 to 1: 0.0742572
+Time Step: 65
+Quadrotor 0 to 2: 0.0815018
+Time Step: 65
+Quadrotor 0 to 3: 0.0691256
+Time Step: 65
+Quadrotor 0 to 4: 0.0492029
+Time Step: 65
+Quadrotor 0 to 5: 0.0591642
+Time Step: 65
+Quadrotor 0 to 6: 0.0344119
+Time Step: 65
+Quadrotor 0 to 7: 0.0416565
+Time Step: 66
+Quadrotor 0 to 1: 0.0739553
+Time Step: 66
+Quadrotor 0 to 2: 0.0833129
+Time Step: 66
+Quadrotor 0 to 3: 0.0591642
+Time Step: 66
+Quadrotor 0 to 4: 0.0398453
+Time Step: 66
+Quadrotor 0 to 5: 0.0739553
+Time Step: 66
+Quadrotor 0 to 6: 0.0353174
+Time Step: 66
+Quadrotor 0 to 7: 0.0431657
+Time Step: 67
+Quadrotor 0 to 1: 0.061881
+Time Step: 67
+Quadrotor 0 to 2: 0.0833129
+Time Step: 67
+Quadrotor 0 to 3: 0.0709367
+Time Step: 67
+Quadrotor 0 to 4: 0.0395434
+Time Step: 67
+Quadrotor 0 to 5: 0.100217
+Time Step: 67
+Quadrotor 0 to 6: 0.0356193
+Time Step: 67
+Quadrotor 0 to 7: 0.0428639
+Time Step: 68
+Quadrotor 0 to 1: 0.059768
+Time Step: 68
+Quadrotor 0 to 2: 0.0890482
+Time Step: 68
+Quadrotor 0 to 3: 0.0609754
+Time Step: 68
+Quadrotor 0 to 4: 0.0392416
+Time Step: 68
+Quadrotor 0 to 5: 0.0881426
+Time Step: 68
+Quadrotor 0 to 6: 0.0344119
+Time Step: 68
+Quadrotor 0 to 7: 0.0434676
+Time Step: 69
+Quadrotor 0 to 1: 0.0519196
+Time Step: 69
+Quadrotor 0 to 2: 0.0609754
+Time Step: 69
+Quadrotor 0 to 3: 0.0624847
+Time Step: 69
+Quadrotor 0 to 4: 0.0392416
+Time Step: 69
+Quadrotor 0 to 5: 0.117423
+Time Step: 69
+Quadrotor 0 to 6: 0.0356193
+Time Step: 69
+Quadrotor 0 to 7: 0.0440713
+Time Step: 70
+Quadrotor 0 to 1: 0.0507122
+Time Step: 70
+Quadrotor 0 to 2: 0.0833129
+Time Step: 70
+Quadrotor 0 to 3: 0.0600698
+Time Step: 70
+Quadrotor 0 to 4: 0.0380342
+Time Step: 70
+Quadrotor 0 to 5: 0.103839
+Time Step: 70
+Quadrotor 0 to 6: 0.0344119
+Time Step: 70
+Quadrotor 0 to 7: 0.0440713
+Time Step: 71
+Quadrotor 0 to 1: 0.0537308
+Time Step: 71
+Quadrotor 0 to 2: 0.0887464
+Time Step: 71
+Quadrotor 0 to 3: 0.0630884
+Time Step: 71
+Quadrotor 0 to 4: 0.040449
+Time Step: 71
+Quadrotor 0 to 5: 0.124366
+Time Step: 71
+Quadrotor 0 to 6: 0.0371286
+Time Step: 71
+Quadrotor 0 to 7: 0.0458825
+Time Step: 72
+Quadrotor 0 to 1: 0.059768
+Time Step: 72
+Quadrotor 0 to 2: 0.0742572
+Time Step: 72
+Quadrotor 0 to 3: 0.0612772
+Time Step: 72
+Quadrotor 0 to 4: 0.0392416
+Time Step: 72
+Quadrotor 0 to 5: 0.106556
+Time Step: 72
+Quadrotor 0 to 6: 0.0356193
+Time Step: 72
+Quadrotor 0 to 7: 0.0443732
+Time Step: 73
+Quadrotor 0 to 1: 0.0528252
+Time Step: 73
+Quadrotor 0 to 2: 0.0742572
+Time Step: 73
+Quadrotor 0 to 3: 0.0489011
+Time Step: 73
+Quadrotor 0 to 4: 0.0389397
+Time Step: 73
+Quadrotor 0 to 5: 0.106858
+Time Step: 73
+Quadrotor 0 to 6: 0.036223
+Time Step: 73
+Quadrotor 0 to 7: 0.0452788
+Time Step: 74
+Quadrotor 0 to 1: 0.0528252
+Time Step: 74
+Quadrotor 0 to 2: 0.0763702
+Time Step: 74
+Quadrotor 0 to 3: 0.0482973
+Time Step: 74
+Quadrotor 0 to 4: 0.0395434
+Time Step: 74
+Quadrotor 0 to 5: 0.121045
+Time Step: 74
+Quadrotor 0 to 6: 0.0365249
+Time Step: 74
+Quadrotor 0 to 7: 0.0458825
+Time Step: 75
+Quadrotor 0 to 1: 0.0492029
+Time Step: 75
+Quadrotor 0 to 2: 0.072446
+Time Step: 75
+Quadrotor 0 to 3: 0.0458825
+Time Step: 75
+Quadrotor 0 to 4: 0.0371286
+Time Step: 75
+Quadrotor 0 to 5: 0.0881426
+Time Step: 75
+Quadrotor 0 to 6: 0.03411
+Time Step: 75
+Quadrotor 0 to 7: 0.0440713
+Time Step: 76
+Quadrotor 0 to 1: 0.0485992
+Time Step: 76
+Quadrotor 0 to 2: 0.0733516
+Time Step: 76
+Quadrotor 0 to 3: 0.046788
+Time Step: 76
+Quadrotor 0 to 4: 0.0368267
+Time Step: 76
+Quadrotor 0 to 5: 0.0869352
+Time Step: 76
+Quadrotor 0 to 6: 0.0347137
+Time Step: 76
+Quadrotor 0 to 7: 0.0440713
+Time Step: 77
+Quadrotor 0 to 1: 0.0579568
+Time Step: 77
+Quadrotor 0 to 2: 0.0727479
+Time Step: 77
+Quadrotor 0 to 3: 0.0455806
+Time Step: 77
+Quadrotor 0 to 4: 0.0371286
+Time Step: 77
+Quadrotor 0 to 5: 0.0721441
+Time Step: 77
+Quadrotor 0 to 6: 0.0347137
+Time Step: 77
+Quadrotor 0 to 7: 0.0440713
+Time Step: 78
+Quadrotor 0 to 1: 0.0482973
+Time Step: 78
+Quadrotor 0 to 2: 0.0721441
+Time Step: 78
+Quadrotor 0 to 3: 0.0452788
+Time Step: 78
+Quadrotor 0 to 4: 0.0374304
+Time Step: 78
+Quadrotor 0 to 5: 0.0845203
+Time Step: 78
+Quadrotor 0 to 6: 0.0347137
+Time Step: 78
+Quadrotor 0 to 7: 0.0437695
+Time Step: 79
+Quadrotor 0 to 1: 0.036223
+Time Step: 79
+Quadrotor 0 to 2: 0.0715404
+Time Step: 79
+Quadrotor 0 to 3: 0.0452788
+Time Step: 79
+Quadrotor 0 to 4: 0.0368267
+Time Step: 79
+Quadrotor 0 to 5: 0.0479955
+Time Step: 79
+Quadrotor 0 to 6: 0.0259598
+Time Step: 79
+Quadrotor 0 to 7: 0.0443732
+Time Step: 80
+Quadrotor 0 to 1: 0.0473918
+Time Step: 80
+Quadrotor 0 to 2: 0.0715404
+Time Step: 80
+Quadrotor 0 to 3: 0.0452788
+Time Step: 80
+Quadrotor 0 to 4: 0.036223
+Time Step: 80
+Quadrotor 0 to 5: 0.0353174
+Time Step: 80
+Quadrotor 0 to 6: 0.025658
+Time Step: 80
+Quadrotor 0 to 7: 0.0440713
+Time Step: 81
+Quadrotor 0 to 1: 0.046788
+Time Step: 81
+Quadrotor 0 to 2: 0.0697293
+Time Step: 81
+Quadrotor 0 to 3: 0.0437695
+Time Step: 81
+Quadrotor 0 to 4: 0.036223
+Time Step: 81
+Quadrotor 0 to 5: 0.0458825
+Time Step: 81
+Quadrotor 0 to 6: 0.0247524
+Time Step: 81
+Quadrotor 0 to 7: 0.0431657
+Time Step: 82
+Quadrotor 0 to 1: 0.0473918
+Time Step: 82
+Quadrotor 0 to 2: 0.0718423
+Time Step: 82
+Quadrotor 0 to 3: 0.0564475
+Time Step: 82
+Quadrotor 0 to 4: 0.0271673
+Time Step: 82
+Quadrotor 0 to 5: 0.0461843
+Time Step: 82
+Quadrotor 0 to 6: 0.025658
+Time Step: 82
+Quadrotor 0 to 7: 0.0440713
+Time Step: 83
+Quadrotor 0 to 1: 0.0470899
+Time Step: 83
+Quadrotor 0 to 2: 0.0470899
+Time Step: 83
+Quadrotor 0 to 3: 0.0567494
+Time Step: 83
+Quadrotor 0 to 4: 0.0274691
+Time Step: 83
+Quadrotor 0 to 5: 0.0344119
+Time Step: 83
+Quadrotor 0 to 6: 0.025658
+Time Step: 83
+Quadrotor 0 to 7: 0.0440713
+Time Step: 84
+Quadrotor 0 to 1: 0.0482973
+Time Step: 84
+Quadrotor 0 to 2: 0.0489011
+Time Step: 84
+Quadrotor 0 to 3: 0.0573531
+Time Step: 84
+Quadrotor 0 to 4: 0.0274691
+Time Step: 84
+Quadrotor 0 to 5: 0.0461843
+Time Step: 84
+Quadrotor 0 to 6: 0.0350156
+Time Step: 84
+Quadrotor 0 to 7: 0.0449769
+Time Step: 85
+Quadrotor 0 to 1: 0.0470899
+Time Step: 85
+Quadrotor 0 to 2: 0.0718423
+Time Step: 85
+Quadrotor 0 to 3: 0.0558438
+Time Step: 85
+Quadrotor 0 to 4: 0.0265635
+Time Step: 85
+Quadrotor 0 to 5: 0.0501085
+Time Step: 85
+Quadrotor 0 to 6: 0.0344119
+Time Step: 85
+Quadrotor 0 to 7: 0.0434676
+Time Step: 86
+Quadrotor 0 to 1: 0.0709367
+Time Step: 86
+Quadrotor 0 to 2: 0.0893501
+Time Step: 86
+Quadrotor 0 to 3: 0.0455806
+Time Step: 86
+Quadrotor 0 to 4: 0.0271673
+Time Step: 86
+Quadrotor 0 to 5: 0.0344119
+Time Step: 86
+Quadrotor 0 to 6: 0.0350156
+Time Step: 86
+Quadrotor 0 to 7: 0.0452788
+Time Step: 87
+Quadrotor 0 to 1: 0.0353174
+Time Step: 87
+Quadrotor 0 to 2: 0.0712386
+Time Step: 87
+Quadrotor 0 to 3: 0.044675
+Time Step: 87
+Quadrotor 0 to 4: 0.0265635
+Time Step: 87
+Quadrotor 0 to 5: 0.0443732
+Time Step: 87
+Quadrotor 0 to 6: 0.0344119
+Time Step: 87
+Quadrotor 0 to 7: 0.044675
+Time Step: 88
+Quadrotor 0 to 1: 0.0353174
+Time Step: 88
+Quadrotor 0 to 2: 0.0730497
+Time Step: 88
+Quadrotor 0 to 3: 0.0452788
+Time Step: 88
+Quadrotor 0 to 4: 0.0271673
+Time Step: 88
+Quadrotor 0 to 5: 0.0440713
+Time Step: 88
+Quadrotor 0 to 6: 0.0356193
+Time Step: 88
+Quadrotor 0 to 7: 0.0455806
+Time Step: 89
+Quadrotor 0 to 1: 0.0564475
+Time Step: 89
+Quadrotor 0 to 2: 0.0727479
+Time Step: 89
+Quadrotor 0 to 3: 0.0558438
+Time Step: 89
+Quadrotor 0 to 4: 0.0259598
+Time Step: 89
+Quadrotor 0 to 5: 0.0338081
+Time Step: 89
+Quadrotor 0 to 6: 0.0359211
+Time Step: 89
+Quadrotor 0 to 7: 0.046788
+Time Step: 90
+Quadrotor 0 to 1: 0.0452788
+Time Step: 90
+Quadrotor 0 to 2: 0.0561457
+Time Step: 90
+Quadrotor 0 to 3: 0.042562
+Time Step: 90
+Quadrotor 0 to 4: 0.0268654
+Time Step: 90
+Quadrotor 0 to 5: 0.0332044
+Time Step: 90
+Quadrotor 0 to 6: 0.0356193
+Time Step: 90
+Quadrotor 0 to 7: 0.0452788
+Time Step: 91
+Quadrotor 0 to 1: 0.0464862
+Time Step: 91
+Quadrotor 0 to 2: 0.0588624
+Time Step: 91
+Quadrotor 0 to 3: 0.0437695
+Time Step: 91
+Quadrotor 0 to 4: 0.0262617
+Time Step: 91
+Quadrotor 0 to 5: 0.0422602
+Time Step: 91
+Quadrotor 0 to 6: 0.0344119
+Time Step: 91
+Quadrotor 0 to 7: 0.044675
+Time Step: 92
+Quadrotor 0 to 1: 0.0461843
+Time Step: 92
+Quadrotor 0 to 2: 0.0573531
+Time Step: 92
+Quadrotor 0 to 3: 0.0431657
+Time Step: 92
+Quadrotor 0 to 4: 0.0413546
+Time Step: 92
+Quadrotor 0 to 5: 0.031997
+Time Step: 92
+Quadrotor 0 to 6: 0.0350156
+Time Step: 92
+Quadrotor 0 to 7: 0.044675
+Time Step: 93
+Quadrotor 0 to 1: 0.03411
+Time Step: 93
+Quadrotor 0 to 2: 0.0582587
+Time Step: 93
+Quadrotor 0 to 3: 0.0552401
+Time Step: 93
+Quadrotor 0 to 4: 0.0262617
+Time Step: 93
+Quadrotor 0 to 5: 0.031997
+Time Step: 93
+Quadrotor 0 to 6: 0.0262617
+Time Step: 93
+Quadrotor 0 to 7: 0.0437695
+Time Step: 94
+Quadrotor 0 to 1: 0.0344119
+Time Step: 94
+Quadrotor 0 to 2: 0.0567494
+Time Step: 94
+Quadrotor 0 to 3: 0.0440713
+Time Step: 94
+Quadrotor 0 to 4: 0.0262617
+Time Step: 94
+Quadrotor 0 to 5: 0.0313933
+Time Step: 94
+Quadrotor 0 to 6: 0.0265635
+Time Step: 94
+Quadrotor 0 to 7: 0.044675
+Time Step: 95
+Quadrotor 0 to 1: 0.0332044
+Time Step: 95
+Quadrotor 0 to 2: 0.0561457
+Time Step: 95
+Quadrotor 0 to 3: 0.0422602
+Time Step: 95
+Quadrotor 0 to 4: 0.0250542
+Time Step: 95
+Quadrotor 0 to 5: 0.0307896
+Time Step: 95
+Quadrotor 0 to 6: 0.0253561
+Time Step: 95
+Quadrotor 0 to 7: 0.042562
+Time Step: 96
+Quadrotor 0 to 1: 0.0338081
+Time Step: 96
+Quadrotor 0 to 2: 0.0576549
+Time Step: 96
+Quadrotor 0 to 3: 0.0434676
+Time Step: 96
+Quadrotor 0 to 4: 0.0262617
+Time Step: 96
+Quadrotor 0 to 5: 0.0307896
+Time Step: 96
+Quadrotor 0 to 6: 0.0259598
+Time Step: 96
+Quadrotor 0 to 7: 0.0443732
+Time Step: 97
+Quadrotor 0 to 1: 0.0338081
+Time Step: 97
+Quadrotor 0 to 2: 0.0570512
+Time Step: 97
+Quadrotor 0 to 3: 0.0434676
+Time Step: 97
+Quadrotor 0 to 4: 0.0253561
+Time Step: 97
+Quadrotor 0 to 5: 0.0310914
+Time Step: 97
+Quadrotor 0 to 6: 0.0259598
+Time Step: 97
+Quadrotor 0 to 7: 0.044675
+Time Step: 98
+Quadrotor 0 to 1: 0.046788
+Time Step: 98
+Quadrotor 0 to 2: 0.0588624
+Time Step: 98
+Quadrotor 0 to 3: 0.0449769
+Time Step: 98
+Quadrotor 0 to 4: 0.0262617
+Time Step: 98
+Quadrotor 0 to 5: 0.0307896
+Time Step: 98
+Quadrotor 0 to 6: 0.0262617
+Time Step: 98
+Quadrotor 0 to 7: 0.0455806
+Time Step: 99
+Quadrotor 0 to 1: 0.0455806
+Time Step: 99
+Quadrotor 0 to 2: 0.0567494
+Time Step: 99
+Quadrotor 0 to 3: 0.0434676
+Time Step: 99
+Quadrotor 0 to 4: 0.0259598
+Time Step: 99
+Quadrotor 0 to 5: 0.0307896
+Time Step: 99
+Quadrotor 0 to 6: 0.0259598
+Time Step: 99
+Quadrotor 0 to 7: 0.0443732
+Time Step: 100
+Quadrotor 0 to 1: 0.0344119
+Time Step: 100
+Quadrotor 0 to 2: 0.0576549
+Time Step: 100
+Quadrotor 0 to 3: 0.0431657
+Time Step: 100
+Quadrotor 0 to 4: 0.0250542
+Time Step: 100
+Quadrotor 0 to 5: 0.029884
+Time Step: 100
+Quadrotor 0 to 6: 0.0259598
+Time Step: 100
+Quadrotor 0 to 7: 0.0440713
+Time Step: 101
+Quadrotor 0 to 1: 0.0350156
+Time Step: 101
+Quadrotor 0 to 2: 0.0579568
+Time Step: 101
+Quadrotor 0 to 3: 0.0440713
+Time Step: 101
+Quadrotor 0 to 4: 0.025658
+Time Step: 101
+Quadrotor 0 to 5: 0.0304877
+Time Step: 101
+Quadrotor 0 to 6: 0.0259598
+Time Step: 101
+Quadrotor 0 to 7: 0.0440713
+Time Step: 102
+Quadrotor 0 to 1: 0.0335063
+Time Step: 102
+Quadrotor 0 to 2: 0.0452788
+Time Step: 102
+Quadrotor 0 to 3: 0.0434676
+Time Step: 102
+Quadrotor 0 to 4: 0.025658
+Time Step: 102
+Quadrotor 0 to 5: 0.0304877
+Time Step: 102
+Quadrotor 0 to 6: 0.0259598
+Time Step: 102
+Quadrotor 0 to 7: 0.0443732
+Time Step: 103
+Quadrotor 0 to 1: 0.0359211
+Time Step: 103
+Quadrotor 0 to 2: 0.0353174
+Time Step: 103
+Quadrotor 0 to 3: 0.0455806
+Time Step: 103
+Quadrotor 0 to 4: 0.0268654
+Time Step: 103
+Quadrotor 0 to 5: 0.0326007
+Time Step: 103
+Quadrotor 0 to 6: 0.027771
+Time Step: 103
+Quadrotor 0 to 7: 0.0461843
+Time Step: 104
+Quadrotor 0 to 1: 0.0353174
+Time Step: 104
+Quadrotor 0 to 2: 0.0561457
+Time Step: 104
+Quadrotor 0 to 3: 0.0431657
+Time Step: 104
+Quadrotor 0 to 4: 0.025658
+Time Step: 104
+Quadrotor 0 to 5: 0.0304877
+Time Step: 104
+Quadrotor 0 to 6: 0.0262617
+Time Step: 104
+Quadrotor 0 to 7: 0.0437695
+Time Step: 105
+Quadrotor 0 to 1: 0.0344119
+Time Step: 105
+Quadrotor 0 to 2: 0.0561457
+Time Step: 105
+Quadrotor 0 to 3: 0.0431657
+Time Step: 105
+Quadrotor 0 to 4: 0.0338081
+Time Step: 105
+Quadrotor 0 to 5: 0.0307896
+Time Step: 105
+Quadrotor 0 to 6: 0.0262617
+Time Step: 105
+Quadrotor 0 to 7: 0.0440713
+Time Step: 106
+Quadrotor 0 to 1: 0.0338081
+Time Step: 106
+Quadrotor 0 to 2: 0.0558438
+Time Step: 106
+Quadrotor 0 to 3: 0.0326007
+Time Step: 106
+Quadrotor 0 to 4: 0.03411
+Time Step: 106
+Quadrotor 0 to 5: 0.0307896
+Time Step: 106
+Quadrotor 0 to 6: 0.0259598
+Time Step: 106
+Quadrotor 0 to 7: 0.0440713
+Time Step: 107
+Quadrotor 0 to 1: 0.0338081
+Time Step: 107
+Quadrotor 0 to 2: 0.0558438
+Time Step: 107
+Quadrotor 0 to 3: 0.0329026
+Time Step: 107
+Quadrotor 0 to 4: 0.0338081
+Time Step: 107
+Quadrotor 0 to 5: 0.0301858
+Time Step: 107
+Quadrotor 0 to 6: 0.0259598
+Time Step: 107
+Quadrotor 0 to 7: 0.0501085
+Time Step: 108
+Quadrotor 0 to 1: 0.0338081
+Time Step: 108
+Quadrotor 0 to 2: 0.0555419
+Time Step: 108
+Quadrotor 0 to 3: 0.0326007
+Time Step: 108
+Quadrotor 0 to 4: 0.0344119
+Time Step: 108
+Quadrotor 0 to 5: 0.0304877
+Time Step: 108
+Quadrotor 0 to 6: 0.0259598
+Time Step: 108
+Quadrotor 0 to 7: 0.0437695
+Time Step: 109
+Quadrotor 0 to 1: 0.0335063
+Time Step: 109
+Quadrotor 0 to 2: 0.0555419
+Time Step: 109
+Quadrotor 0 to 3: 0.0546364
+Time Step: 109
+Quadrotor 0 to 4: 0.03411
+Time Step: 109
+Quadrotor 0 to 5: 0.0295821
+Time Step: 109
+Quadrotor 0 to 6: 0.0265635
+Time Step: 109
+Quadrotor 0 to 7: 0.0437695
+Time Step: 110
+Quadrotor 0 to 1: 0.0329026
+Time Step: 110
+Quadrotor 0 to 2: 0.0549382
+Time Step: 110
+Quadrotor 0 to 3: 0.0546364
+Time Step: 110
+Quadrotor 0 to 4: 0.03411
+Time Step: 110
+Quadrotor 0 to 5: 0.0295821
+Time Step: 110
+Quadrotor 0 to 6: 0.0265635
+Time Step: 110
+Quadrotor 0 to 7: 0.0434676
+Time Step: 111
+Quadrotor 0 to 1: 0.0350156
+Time Step: 111
+Quadrotor 0 to 2: 0.0564475
+Time Step: 111
+Quadrotor 0 to 3: 0.0561457
+Time Step: 111
+Quadrotor 0 to 4: 0.0353174
+Time Step: 111
+Quadrotor 0 to 5: 0.0307896
+Time Step: 111
+Quadrotor 0 to 6: 0.0347137
+Time Step: 111
+Quadrotor 0 to 7: 0.0434676
+Time Step: 112
+Quadrotor 0 to 1: 0.03411
+Time Step: 112
+Quadrotor 0 to 2: 0.0540326
+Time Step: 112
+Quadrotor 0 to 3: 0.0546364
+Time Step: 112
+Quadrotor 0 to 4: 0.03411
+Time Step: 112
+Quadrotor 0 to 5: 0.0295821
+Time Step: 112
+Quadrotor 0 to 6: 0.0262617
+Time Step: 112
+Quadrotor 0 to 7: 0.0440713
+Time Step: 113
+Quadrotor 0 to 1: 0.0335063
+Time Step: 113
+Quadrotor 0 to 2: 0.0615791
+Time Step: 113
+Quadrotor 0 to 3: 0.0546364
+Time Step: 113
+Quadrotor 0 to 4: 0.0344119
+Time Step: 113
+Quadrotor 0 to 5: 0.0534289
+Time Step: 113
+Quadrotor 0 to 6: 0.0262617
+Time Step: 113
+Quadrotor 0 to 7: 0.0437695
+Time Step: 114
+Quadrotor 0 to 1: 0.0338081
+Time Step: 114
+Quadrotor 0 to 2: 0.042562
+Time Step: 114
+Quadrotor 0 to 3: 0.0431657
+Time Step: 114
+Quadrotor 0 to 4: 0.03411
+Time Step: 114
+Quadrotor 0 to 5: 0.029884
+Time Step: 114
+Quadrotor 0 to 6: 0.0262617
+Time Step: 114
+Quadrotor 0 to 7: 0.0437695
+Time Step: 115
+Quadrotor 0 to 1: 0.0344119
+Time Step: 115
+Quadrotor 0 to 2: 0.0543345
+Time Step: 115
+Quadrotor 0 to 3: 0.0440713
+Time Step: 115
+Quadrotor 0 to 4: 0.0350156
+Time Step: 115
+Quadrotor 0 to 5: 0.0295821
+Time Step: 115
+Quadrotor 0 to 6: 0.0262617
+Time Step: 115
+Quadrotor 0 to 7: 0.0434676
+Time Step: 116
+Quadrotor 0 to 1: 0.0419583
+Time Step: 116
+Quadrotor 0 to 2: 0.0558438
+Time Step: 116
+Quadrotor 0 to 3: 0.0688237
+Time Step: 116
+Quadrotor 0 to 4: 0.0356193
+Time Step: 116
+Quadrotor 0 to 5: 0.0310914
+Time Step: 116
+Quadrotor 0 to 6: 0.0271673
+Time Step: 116
+Quadrotor 0 to 7: 0.044675
+Time Step: 117
+Quadrotor 0 to 1: 0.0344119
+Time Step: 117
+Quadrotor 0 to 2: 0.0546364
+Time Step: 117
+Quadrotor 0 to 3: 0.0863315
+Time Step: 117
+Quadrotor 0 to 4: 0.0347137
+Time Step: 117
+Quadrotor 0 to 5: 0.029884
+Time Step: 117
+Quadrotor 0 to 6: 0.0274691
+Time Step: 117
+Quadrotor 0 to 7: 0.0440713
+Time Step: 118
+Quadrotor 0 to 1: 0.0359211
+Time Step: 118
+Quadrotor 0 to 2: 0.0579568
+Time Step: 118
+Quadrotor 0 to 3: 0.0588624
+Time Step: 118
+Quadrotor 0 to 4: 0.0365249
+Time Step: 118
+Quadrotor 0 to 5: 0.0316951
+Time Step: 118
+Quadrotor 0 to 6: 0.027771
+Time Step: 118
+Quadrotor 0 to 7: 0.0570512
+Time Step: 119
+Quadrotor 0 to 1: 0.036223
+Time Step: 119
+Quadrotor 0 to 2: 0.0585605
+Time Step: 119
+Quadrotor 0 to 3: 0.0558438
+Time Step: 119
+Quadrotor 0 to 4: 0.0350156
+Time Step: 119
+Quadrotor 0 to 5: 0.0316951
+Time Step: 119
+Quadrotor 0 to 6: 0.027771
+Time Step: 119
+Quadrotor 0 to 7: 0.0576549
+Time Step: 120
+Quadrotor 0 to 1: 0.0359211
+Time Step: 120
+Quadrotor 0 to 2: 0.0691256
+Time Step: 120
+Quadrotor 0 to 3: 0.059768
+Time Step: 120
+Quadrotor 0 to 4: 0.0371286
+Time Step: 120
+Quadrotor 0 to 5: 0.031997
+Time Step: 120
+Quadrotor 0 to 6: 0.0286765
+Time Step: 120
+Quadrotor 0 to 7: 0.0573531
+Time Step: 121
+Quadrotor 0 to 1: 0.0353174
+Time Step: 121
+Quadrotor 0 to 2: 0.0670126
+Time Step: 121
+Quadrotor 0 to 3: 0.0679181
+Time Step: 121
+Quadrotor 0 to 4: 0.0437695
+Time Step: 121
+Quadrotor 0 to 5: 0.029884
+Time Step: 121
+Quadrotor 0 to 6: 0.0265635
+Time Step: 121
+Quadrotor 0 to 7: 0.0546364
+Time Step: 122
+Quadrotor 0 to 1: 0.0350156
+Time Step: 122
+Quadrotor 0 to 2: 0.0673144
+Time Step: 122
+Quadrotor 0 to 3: 0.0815018
+Time Step: 122
+Quadrotor 0 to 4: 0.044675
+Time Step: 122
+Quadrotor 0 to 5: 0.0307896
+Time Step: 122
+Quadrotor 0 to 6: 0.0274691
+Time Step: 122
+Quadrotor 0 to 7: 0.0564475
+Time Step: 123
+Quadrotor 0 to 1: 0.0347137
+Time Step: 123
+Quadrotor 0 to 2: 0.0673144
+Time Step: 123
+Quadrotor 0 to 3: 0.0805962
+Time Step: 123
+Quadrotor 0 to 4: 0.0452788
+Time Step: 123
+Quadrotor 0 to 5: 0.0307896
+Time Step: 123
+Quadrotor 0 to 6: 0.0271673
+Time Step: 123
+Quadrotor 0 to 7: 0.0561457
+Time Step: 124
+Quadrotor 0 to 1: 0.0350156
+Time Step: 124
+Quadrotor 0 to 2: 0.0676163
+Time Step: 124
+Quadrotor 0 to 3: 0.0685218
+Time Step: 124
+Quadrotor 0 to 4: 0.0443732
+Time Step: 124
+Quadrotor 0 to 5: 0.0307896
+Time Step: 124
+Quadrotor 0 to 6: 0.0268654
+Time Step: 124
+Quadrotor 0 to 7: 0.0555419
+Time Step: 125
+Quadrotor 0 to 1: 0.0344119
+Time Step: 125
+Quadrotor 0 to 2: 0.0645977
+Time Step: 125
+Quadrotor 0 to 3: 0.0667107
+Time Step: 125
+Quadrotor 0 to 4: 0.0440713
+Time Step: 125
+Quadrotor 0 to 5: 0.029884
+Time Step: 125
+Quadrotor 0 to 6: 0.0265635
+Time Step: 125
+Quadrotor 0 to 7: 0.0431657
+Time Step: 126
+Quadrotor 0 to 1: 0.0344119
+Time Step: 126
+Quadrotor 0 to 2: 0.0645977
+Time Step: 126
+Quadrotor 0 to 3: 0.0567494
+Time Step: 126
+Quadrotor 0 to 4: 0.0440713
+Time Step: 126
+Quadrotor 0 to 5: 0.029884
+Time Step: 126
+Quadrotor 0 to 6: 0.0268654
+Time Step: 126
+Quadrotor 0 to 7: 0.031997
+Time Step: 127
+Quadrotor 0 to 1: 0.0344119
+Time Step: 127
+Quadrotor 0 to 2: 0.0733516
+Time Step: 127
+Quadrotor 0 to 3: 0.0564475
+Time Step: 127
+Quadrotor 0 to 4: 0.0437695
+Time Step: 127
+Quadrotor 0 to 5: 0.029884
+Time Step: 127
+Quadrotor 0 to 6: 0.0265635
+Time Step: 127
+Quadrotor 0 to 7: 0.0316951
+Time Step: 128
+Quadrotor 0 to 1: 0.0338081
+Time Step: 128
+Quadrotor 0 to 2: 0.0802943
+Time Step: 128
+Quadrotor 0 to 3: 0.0579568
+Time Step: 128
+Quadrotor 0 to 4: 0.0452788
+Time Step: 128
+Quadrotor 0 to 5: 0.0307896
+Time Step: 128
+Quadrotor 0 to 6: 0.0274691
+Time Step: 128
+Quadrotor 0 to 7: 0.0332044
+Time Step: 129
+Quadrotor 0 to 1: 0.0347137
+Time Step: 129
+Quadrotor 0 to 2: 0.0540326
+Time Step: 129
+Quadrotor 0 to 3: 0.0558438
+Time Step: 129
+Quadrotor 0 to 4: 0.0437695
+Time Step: 129
+Quadrotor 0 to 5: 0.029884
+Time Step: 129
+Quadrotor 0 to 6: 0.0265635
+Time Step: 129
+Quadrotor 0 to 7: 0.0326007
+Time Step: 130
+Quadrotor 0 to 1: 0.03411
+Time Step: 130
+Quadrotor 0 to 2: 0.0522215
+Time Step: 130
+Quadrotor 0 to 3: 0.0549382
+Time Step: 130
+Quadrotor 0 to 4: 0.0434676
+Time Step: 130
+Quadrotor 0 to 5: 0.0292803
+Time Step: 130
+Quadrotor 0 to 6: 0.025658
+Time Step: 130
+Quadrotor 0 to 7: 0.0313933
+Time Step: 131
+Quadrotor 0 to 1: 0.0359211
+Time Step: 131
+Quadrotor 0 to 2: 0.0552401
+Time Step: 131
+Quadrotor 0 to 3: 0.0579568
+Time Step: 131
+Quadrotor 0 to 4: 0.0455806
+Time Step: 131
+Quadrotor 0 to 5: 0.0307896
+Time Step: 131
+Quadrotor 0 to 6: 0.0271673
+Time Step: 131
+Quadrotor 0 to 7: 0.0322988
+Time Step: 132
+Quadrotor 0 to 1: 0.0347137
+Time Step: 132
+Quadrotor 0 to 2: 0.0546364
+Time Step: 132
+Quadrotor 0 to 3: 0.0570512
+Time Step: 132
+Quadrotor 0 to 4: 0.044675
+Time Step: 132
+Quadrotor 0 to 5: 0.0304877
+Time Step: 132
+Quadrotor 0 to 6: 0.0265635
+Time Step: 132
+Quadrotor 0 to 7: 0.031997
+Time Step: 133
+Quadrotor 0 to 1: 0.0350156
+Time Step: 133
+Quadrotor 0 to 2: 0.0543345
+Time Step: 133
+Quadrotor 0 to 3: 0.0555419
+Time Step: 133
+Quadrotor 0 to 4: 0.0449769
+Time Step: 133
+Quadrotor 0 to 5: 0.0304877
+Time Step: 133
+Quadrotor 0 to 6: 0.0262617
+Time Step: 133
+Quadrotor 0 to 7: 0.0316951
+Time Step: 134
+Quadrotor 0 to 1: 0.0338081
+Time Step: 134
+Quadrotor 0 to 2: 0.0528252
+Time Step: 134
+Quadrotor 0 to 3: 0.0440713
+Time Step: 134
+Quadrotor 0 to 4: 0.0434676
+Time Step: 134
+Quadrotor 0 to 5: 0.0407509
+Time Step: 134
+Quadrotor 0 to 6: 0.0265635
+Time Step: 134
+Quadrotor 0 to 7: 0.0316951
+Time Step: 135
+Quadrotor 0 to 1: 0.03411
+Time Step: 135
+Quadrotor 0 to 2: 0.0531271
+Time Step: 135
+Quadrotor 0 to 3: 0.0440713
+Time Step: 135
+Quadrotor 0 to 4: 0.0344119
+Time Step: 135
+Quadrotor 0 to 5: 0.0522215
+Time Step: 135
+Quadrotor 0 to 6: 0.0268654
+Time Step: 135
+Quadrotor 0 to 7: 0.0316951
+Time Step: 136
+Quadrotor 0 to 1: 0.0338081
+Time Step: 136
+Quadrotor 0 to 2: 0.0609754
+Time Step: 136
+Quadrotor 0 to 3: 0.0440713
+Time Step: 136
+Quadrotor 0 to 4: 0.0344119
+Time Step: 136
+Quadrotor 0 to 5: 0.0395434
+Time Step: 136
+Quadrotor 0 to 6: 0.025658
+Time Step: 136
+Quadrotor 0 to 7: 0.0307896
+Time Step: 137
+Quadrotor 0 to 1: 0.0344119
+Time Step: 137
+Quadrotor 0 to 2: 0.0540326
+Time Step: 137
+Quadrotor 0 to 3: 0.0564475
+Time Step: 137
+Quadrotor 0 to 4: 0.0353174
+Time Step: 137
+Quadrotor 0 to 5: 0.0410527
+Time Step: 137
+Quadrotor 0 to 6: 0.0262617
+Time Step: 137
+Quadrotor 0 to 7: 0.0313933
+Time Step: 138
+Quadrotor 0 to 1: 0.0347137
+Time Step: 138
+Quadrotor 0 to 2: 0.0531271
+Time Step: 138
+Quadrotor 0 to 3: 0.0549382
+Time Step: 138
+Quadrotor 0 to 4: 0.0344119
+Time Step: 138
+Quadrotor 0 to 5: 0.0398453
+Time Step: 138
+Quadrotor 0 to 6: 0.0253561
+Time Step: 138
+Quadrotor 0 to 7: 0.0310914
+Time Step: 139
+Quadrotor 0 to 1: 0.03411
+Time Step: 139
+Quadrotor 0 to 2: 0.0525234
+Time Step: 139
+Quadrotor 0 to 3: 0.0552401
+Time Step: 139
+Quadrotor 0 to 4: 0.0347137
+Time Step: 139
+Quadrotor 0 to 5: 0.0401472
+Time Step: 139
+Quadrotor 0 to 6: 0.025658
+Time Step: 139
+Quadrotor 0 to 7: 0.0307896
+Time Step: 140
+Quadrotor 0 to 1: 0.0504103
+Time Step: 140
+Quadrotor 0 to 2: 0.0600698
+Time Step: 140
+Quadrotor 0 to 3: 0.0546364
+Time Step: 140
+Quadrotor 0 to 4: 0.036223
+Time Step: 140
+Quadrotor 0 to 5: 0.0537308
+Time Step: 140
+Quadrotor 0 to 6: 0.0271673
+Time Step: 140
+Quadrotor 0 to 7: 0.0332044
+Time Step: 141
+Quadrotor 0 to 1: 0.0347137
+Time Step: 141
+Quadrotor 0 to 2: 0.0525234
+Time Step: 141
+Quadrotor 0 to 3: 0.063994
+Time Step: 141
+Quadrotor 0 to 4: 0.0353174
+Time Step: 141
+Quadrotor 0 to 5: 0.0519196
+Time Step: 141
+Quadrotor 0 to 6: 0.0268654
+Time Step: 141
+Quadrotor 0 to 7: 0.031997
+Time Step: 142
+Quadrotor 0 to 1: 0.046788
+Time Step: 142
+Quadrotor 0 to 2: 0.0543345
+Time Step: 142
+Quadrotor 0 to 3: 0.0564475
+Time Step: 142
+Quadrotor 0 to 4: 0.0353174
+Time Step: 142
+Quadrotor 0 to 5: 0.0676163
+Time Step: 142
+Quadrotor 0 to 6: 0.0262617
+Time Step: 142
+Quadrotor 0 to 7: 0.0307896
+Time Step: 143
+Quadrotor 0 to 1: 0.0464862
+Time Step: 143
+Quadrotor 0 to 2: 0.0543345
+Time Step: 143
+Quadrotor 0 to 3: 0.0570512
+Time Step: 143
+Quadrotor 0 to 4: 0.0356193
+Time Step: 143
+Quadrotor 0 to 5: 0.0531271
+Time Step: 143
+Quadrotor 0 to 6: 0.0265635
+Time Step: 143
+Quadrotor 0 to 7: 0.0313933
+Time Step: 144
+Quadrotor 0 to 1: 0.059768
+Time Step: 144
+Quadrotor 0 to 2: 0.0543345
+Time Step: 144
+Quadrotor 0 to 3: 0.0567494
+Time Step: 144
+Quadrotor 0 to 4: 0.0356193
+Time Step: 144
+Quadrotor 0 to 5: 0.0525234
+Time Step: 144
+Quadrotor 0 to 6: 0.0265635
+Time Step: 144
+Quadrotor 0 to 7: 0.031997
+Time Step: 145
+Quadrotor 0 to 1: 0.0588624
+Time Step: 145
+Quadrotor 0 to 2: 0.0540326
+Time Step: 145
+Quadrotor 0 to 3: 0.0567494
+Time Step: 145
+Quadrotor 0 to 4: 0.0353174
+Time Step: 145
+Quadrotor 0 to 5: 0.042562
+Time Step: 145
+Quadrotor 0 to 6: 0.0265635
+Time Step: 145
+Quadrotor 0 to 7: 0.0316951
+Time Step: 146
+Quadrotor 0 to 1: 0.0591642
+Time Step: 146
+Quadrotor 0 to 2: 0.0534289
+Time Step: 146
+Quadrotor 0 to 3: 0.0564475
+Time Step: 146
+Quadrotor 0 to 4: 0.0359211
+Time Step: 146
+Quadrotor 0 to 5: 0.0410527
+Time Step: 146
+Quadrotor 0 to 6: 0.025658
+Time Step: 146
+Quadrotor 0 to 7: 0.0304877
+Time Step: 147
+Quadrotor 0 to 1: 0.0594661
+Time Step: 147
+Quadrotor 0 to 2: 0.0540326
+Time Step: 147
+Quadrotor 0 to 3: 0.0567494
+Time Step: 147
+Quadrotor 0 to 4: 0.0359211
+Time Step: 147
+Quadrotor 0 to 5: 0.0416565
+Time Step: 147
+Quadrotor 0 to 6: 0.027771
+Time Step: 147
+Quadrotor 0 to 7: 0.0322988
+Time Step: 148
+Quadrotor 0 to 1: 0.0579568
+Time Step: 148
+Quadrotor 0 to 2: 0.0528252
+Time Step: 148
+Quadrotor 0 to 3: 0.0549382
+Time Step: 148
+Quadrotor 0 to 4: 0.0350156
+Time Step: 148
+Quadrotor 0 to 5: 0.0401472
+Time Step: 148
+Quadrotor 0 to 6: 0.025658
+Time Step: 148
+Quadrotor 0 to 7: 0.0310914
+Time Step: 149
+Quadrotor 0 to 1: 0.0594661
+Time Step: 149
+Quadrotor 0 to 2: 0.0546364
+Time Step: 149
+Quadrotor 0 to 3: 0.0567494
+Time Step: 149
+Quadrotor 0 to 4: 0.0440713
+Time Step: 149
+Quadrotor 0 to 5: 0.0416565
+Time Step: 149
+Quadrotor 0 to 6: 0.0265635
+Time Step: 149
+Quadrotor 0 to 7: 0.031997
+Time Step: 150
+Quadrotor 0 to 1: 0.059768
+Time Step: 150
+Quadrotor 0 to 2: 0.0540326
+Time Step: 150
+Quadrotor 0 to 3: 0.072446
+Time Step: 150
+Quadrotor 0 to 4: 0.0356193
+Time Step: 150
+Quadrotor 0 to 5: 0.0410527
+Time Step: 150
+Quadrotor 0 to 6: 0.0268654
+Time Step: 150
+Quadrotor 0 to 7: 0.0322988
+Time Step: 151
+Quadrotor 0 to 1: 0.0588624
+Time Step: 151
+Quadrotor 0 to 2: 0.0540326
+Time Step: 151
+Quadrotor 0 to 3: 0.0564475
+Time Step: 151
+Quadrotor 0 to 4: 0.0359211
+Time Step: 151
+Quadrotor 0 to 5: 0.0416565
+Time Step: 151
+Quadrotor 0 to 6: 0.0265635
+Time Step: 151
+Quadrotor 0 to 7: 0.0316951
+Time Step: 152
+Quadrotor 0 to 1: 0.0606735
+Time Step: 152
+Quadrotor 0 to 2: 0.0326007
+Time Step: 152
+Quadrotor 0 to 3: 0.0585605
+Time Step: 152
+Quadrotor 0 to 4: 0.0368267
+Time Step: 152
+Quadrotor 0 to 5: 0.0434676
+Time Step: 152
+Quadrotor 0 to 6: 0.0271673
+Time Step: 152
+Quadrotor 0 to 7: 0.0326007
+Time Step: 153
+Quadrotor 0 to 1: 0.0588624
+Time Step: 153
+Quadrotor 0 to 2: 0.0543345
+Time Step: 153
+Quadrotor 0 to 3: 0.0570512
+Time Step: 153
+Quadrotor 0 to 4: 0.0356193
+Time Step: 153
+Quadrotor 0 to 5: 0.0419583
+Time Step: 153
+Quadrotor 0 to 6: 0.0262617
+Time Step: 153
+Quadrotor 0 to 7: 0.031997
+Time Step: 154
+Quadrotor 0 to 1: 0.0588624
+Time Step: 154
+Quadrotor 0 to 2: 0.0540326
+Time Step: 154
+Quadrotor 0 to 3: 0.0567494
+Time Step: 154
+Quadrotor 0 to 4: 0.0359211
+Time Step: 154
+Quadrotor 0 to 5: 0.0434676
+Time Step: 154
+Quadrotor 0 to 6: 0.0259598
+Time Step: 154
+Quadrotor 0 to 7: 0.031997
+Time Step: 155
+Quadrotor 0 to 1: 0.0588624
+Time Step: 155
+Quadrotor 0 to 2: 0.0540326
+Time Step: 155
+Quadrotor 0 to 3: 0.0573531
+Time Step: 155
+Quadrotor 0 to 4: 0.0356193
+Time Step: 155
+Quadrotor 0 to 5: 0.0428639
+Time Step: 155
+Quadrotor 0 to 6: 0.0265635
+Time Step: 155
+Quadrotor 0 to 7: 0.0313933
+Time Step: 156
+Quadrotor 0 to 1: 0.0570512
+Time Step: 156
+Quadrotor 0 to 2: 0.0531271
+Time Step: 156
+Quadrotor 0 to 3: 0.0555419
+Time Step: 156
+Quadrotor 0 to 4: 0.0347137
+Time Step: 156
+Quadrotor 0 to 5: 0.0307896
+Time Step: 156
+Quadrotor 0 to 6: 0.0265635
+Time Step: 156
+Quadrotor 0 to 7: 0.031997
+Time Step: 157
+Quadrotor 0 to 1: 0.0591642
+Time Step: 157
+Quadrotor 0 to 2: 0.0549382
+Time Step: 157
+Quadrotor 0 to 3: 0.0573531
+Time Step: 157
+Quadrotor 0 to 4: 0.0359211
+Time Step: 157
+Quadrotor 0 to 5: 0.0401472
+Time Step: 157
+Quadrotor 0 to 6: 0.0259598
+Time Step: 157
+Quadrotor 0 to 7: 0.0316951
+Time Step: 158
+Quadrotor 0 to 1: 0.0591642
+Time Step: 158
+Quadrotor 0 to 2: 0.0546364
+Time Step: 158
+Quadrotor 0 to 3: 0.0576549
+Time Step: 158
+Quadrotor 0 to 4: 0.0356193
+Time Step: 158
+Quadrotor 0 to 5: 0.0431657
+Time Step: 158
+Quadrotor 0 to 6: 0.0262617
+Time Step: 158
+Quadrotor 0 to 7: 0.031997
+Time Step: 159
+Quadrotor 0 to 1: 0.0585605
+Time Step: 159
+Quadrotor 0 to 2: 0.0543345
+Time Step: 159
+Quadrotor 0 to 3: 0.0458825
+Time Step: 159
+Quadrotor 0 to 4: 0.0359211
+Time Step: 159
+Quadrotor 0 to 5: 0.0422602
+Time Step: 159
+Quadrotor 0 to 6: 0.0259598
+Time Step: 159
+Quadrotor 0 to 7: 0.0322988
+Time Step: 160
+Quadrotor 0 to 1: 0.0579568
+Time Step: 160
+Quadrotor 0 to 2: 0.0546364
+Time Step: 160
+Quadrotor 0 to 3: 0.0458825
+Time Step: 160
+Quadrotor 0 to 4: 0.0365249
+Time Step: 160
+Quadrotor 0 to 5: 0.0431657
+Time Step: 160
+Quadrotor 0 to 6: 0.0262617
+Time Step: 160
+Quadrotor 0 to 7: 0.0313933
+Time Step: 161
+Quadrotor 0 to 1: 0.0573531
+Time Step: 161
+Quadrotor 0 to 2: 0.0546364
+Time Step: 161
+Quadrotor 0 to 3: 0.0464862
+Time Step: 161
+Quadrotor 0 to 4: 0.0359211
+Time Step: 161
+Quadrotor 0 to 5: 0.0428639
+Time Step: 161
+Quadrotor 0 to 6: 0.0259598
+Time Step: 161
+Quadrotor 0 to 7: 0.0316951
+Time Step: 162
+Quadrotor 0 to 1: 0.0350156
+Time Step: 162
+Quadrotor 0 to 2: 0.0543345
+Time Step: 162
+Quadrotor 0 to 3: 0.0461843
+Time Step: 162
+Quadrotor 0 to 4: 0.0359211
+Time Step: 162
+Quadrotor 0 to 5: 0.0431657
+Time Step: 162
+Quadrotor 0 to 6: 0.0259598
+Time Step: 162
+Quadrotor 0 to 7: 0.0322988
+Time Step: 163
+Quadrotor 0 to 1: 0.0344119
+Time Step: 163
+Quadrotor 0 to 2: 0.0534289
+Time Step: 163
+Quadrotor 0 to 3: 0.044675
+Time Step: 163
+Quadrotor 0 to 4: 0.0350156
+Time Step: 163
+Quadrotor 0 to 5: 0.0307896
+Time Step: 163
+Quadrotor 0 to 6: 0.025658
+Time Step: 163
+Quadrotor 0 to 7: 0.031997
+Time Step: 164
+Quadrotor 0 to 1: 0.0353174
+Time Step: 164
+Quadrotor 0 to 2: 0.0549382
+Time Step: 164
+Quadrotor 0 to 3: 0.0461843
+Time Step: 164
+Quadrotor 0 to 4: 0.036223
+Time Step: 164
+Quadrotor 0 to 5: 0.0316951
+Time Step: 164
+Quadrotor 0 to 6: 0.0265635
+Time Step: 164
+Quadrotor 0 to 7: 0.031997
+Time Step: 165
+Quadrotor 0 to 1: 0.0431657
+Time Step: 165
+Quadrotor 0 to 2: 0.0549382
+Time Step: 165
+Quadrotor 0 to 3: 0.0461843
+Time Step: 165
+Quadrotor 0 to 4: 0.0365249
+Time Step: 165
+Quadrotor 0 to 5: 0.031997
+Time Step: 165
+Quadrotor 0 to 6: 0.0265635
+Time Step: 165
+Quadrotor 0 to 7: 0.031997
+Time Step: 166
+Quadrotor 0 to 1: 0.0585605
+Time Step: 166
+Quadrotor 0 to 2: 0.0552401
+Time Step: 166
+Quadrotor 0 to 3: 0.0464862
+Time Step: 166
+Quadrotor 0 to 4: 0.0365249
+Time Step: 166
+Quadrotor 0 to 5: 0.031997
+Time Step: 166
+Quadrotor 0 to 6: 0.0262617
+Time Step: 166
+Quadrotor 0 to 7: 0.0316951
+Time Step: 167
+Quadrotor 0 to 1: 0.0353174
+Time Step: 167
+Quadrotor 0 to 2: 0.0549382
+Time Step: 167
+Quadrotor 0 to 3: 0.0461843
+Time Step: 167
+Quadrotor 0 to 4: 0.0368267
+Time Step: 167
+Quadrotor 0 to 5: 0.0322988
+Time Step: 167
+Quadrotor 0 to 6: 0.0262617
+Time Step: 167
+Quadrotor 0 to 7: 0.0322988
+Time Step: 168
+Quadrotor 0 to 1: 0.0353174
+Time Step: 168
+Quadrotor 0 to 2: 0.0549382
+Time Step: 168
+Quadrotor 0 to 3: 0.0579568
+Time Step: 168
+Quadrotor 0 to 4: 0.036223
+Time Step: 168
+Quadrotor 0 to 5: 0.0434676
+Time Step: 168
+Quadrotor 0 to 6: 0.0262617
+Time Step: 168
+Quadrotor 0 to 7: 0.0316951
+Time Step: 169
+Quadrotor 0 to 1: 0.0350156
+Time Step: 169
+Quadrotor 0 to 2: 0.0561457
+Time Step: 169
+Quadrotor 0 to 3: 0.0591642
+Time Step: 169
+Quadrotor 0 to 4: 0.0374304
+Time Step: 169
+Quadrotor 0 to 5: 0.044675
+Time Step: 169
+Quadrotor 0 to 6: 0.0268654
+Time Step: 169
+Quadrotor 0 to 7: 0.0329026
+Time Step: 170
+Quadrotor 0 to 1: 0.036223
+Time Step: 170
+Quadrotor 0 to 2: 0.0567494
+Time Step: 170
+Quadrotor 0 to 3: 0.0594661
+Time Step: 170
+Quadrotor 0 to 4: 0.0371286
+Time Step: 170
+Quadrotor 0 to 5: 0.044675
+Time Step: 170
+Quadrotor 0 to 6: 0.0271673
+Time Step: 170
+Quadrotor 0 to 7: 0.0326007
+Time Step: 171
+Quadrotor 0 to 1: 0.0350156
+Time Step: 171
+Quadrotor 0 to 2: 0.031997
+Time Step: 171
+Quadrotor 0 to 3: 0.0588624
+Time Step: 171
+Quadrotor 0 to 4: 0.036223
+Time Step: 171
+Quadrotor 0 to 5: 0.0431657
+Time Step: 171
+Quadrotor 0 to 6: 0.0262617
+Time Step: 171
+Quadrotor 0 to 7: 0.031997
+Time Step: 172
+Quadrotor 0 to 1: 0.036223
+Time Step: 172
+Quadrotor 0 to 2: 0.0316951
+Time Step: 172
+Quadrotor 0 to 3: 0.0582587
+Time Step: 172
+Quadrotor 0 to 4: 0.036223
+Time Step: 172
+Quadrotor 0 to 5: 0.0437695
+Time Step: 172
+Quadrotor 0 to 6: 0.0259598
+Time Step: 172
+Quadrotor 0 to 7: 0.031997
+Time Step: 173
+Quadrotor 0 to 1: 0.0359211
+Time Step: 173
+Quadrotor 0 to 2: 0.0329026
+Time Step: 173
+Quadrotor 0 to 3: 0.0594661
+Time Step: 173
+Quadrotor 0 to 4: 0.0374304
+Time Step: 173
+Quadrotor 0 to 5: 0.0458825
+Time Step: 173
+Quadrotor 0 to 6: 0.0274691
+Time Step: 173
+Quadrotor 0 to 7: 0.0326007
+Time Step: 174
+Quadrotor 0 to 1: 0.0353174
+Time Step: 174
+Quadrotor 0 to 2: 0.031997
+Time Step: 174
+Quadrotor 0 to 3: 0.0461843
+Time Step: 174
+Quadrotor 0 to 4: 0.0365249
+Time Step: 174
+Quadrotor 0 to 5: 0.0443732
+Time Step: 174
+Quadrotor 0 to 6: 0.0262617
+Time Step: 174
+Quadrotor 0 to 7: 0.031997
+Time Step: 175
+Quadrotor 0 to 1: 0.0350156
+Time Step: 175
+Quadrotor 0 to 2: 0.0326007
+Time Step: 175
+Quadrotor 0 to 3: 0.0458825
+Time Step: 175
+Quadrotor 0 to 4: 0.036223
+Time Step: 175
+Quadrotor 0 to 5: 0.044675
+Time Step: 175
+Quadrotor 0 to 6: 0.0265635
+Time Step: 175
+Quadrotor 0 to 7: 0.0316951
+Time Step: 176
+Quadrotor 0 to 1: 0.0350156
+Time Step: 176
+Quadrotor 0 to 2: 0.0322988
+Time Step: 176
+Quadrotor 0 to 3: 0.0464862
+Time Step: 176
+Quadrotor 0 to 4: 0.036223
+Time Step: 176
+Quadrotor 0 to 5: 0.0449769
+Time Step: 176
+Quadrotor 0 to 6: 0.0265635
+Time Step: 176
+Quadrotor 0 to 7: 0.0316951
+Time Step: 177
+Quadrotor 0 to 1: 0.03411
+Time Step: 177
+Quadrotor 0 to 2: 0.0313933
+Time Step: 177
+Quadrotor 0 to 3: 0.0461843
+Time Step: 177
+Quadrotor 0 to 4: 0.0359211
+Time Step: 177
+Quadrotor 0 to 5: 0.0449769
+Time Step: 177
+Quadrotor 0 to 6: 0.0265635
+Time Step: 177
+Quadrotor 0 to 7: 0.031997
+Time Step: 178
+Quadrotor 0 to 1: 0.0353174
+Time Step: 178
+Quadrotor 0 to 2: 0.0338081
+Time Step: 178
+Quadrotor 0 to 3: 0.0470899
+Time Step: 178
+Quadrotor 0 to 4: 0.0371286
+Time Step: 178
+Quadrotor 0 to 5: 0.0461843
+Time Step: 178
+Quadrotor 0 to 6: 0.0268654
+Time Step: 178
+Quadrotor 0 to 7: 0.0326007
+Time Step: 179
+Quadrotor 0 to 1: 0.036223
+Time Step: 179
+Quadrotor 0 to 2: 0.044675
+Time Step: 179
+Quadrotor 0 to 3: 0.0470899
+Time Step: 179
+Quadrotor 0 to 4: 0.0371286
+Time Step: 179
+Quadrotor 0 to 5: 0.0452788
+Time Step: 179
+Quadrotor 0 to 6: 0.0265635
+Time Step: 179
+Quadrotor 0 to 7: 0.0322988
+Time Step: 180
+Quadrotor 0 to 1: 0.0359211
+Time Step: 180
+Quadrotor 0 to 2: 0.0440713
+Time Step: 180
+Quadrotor 0 to 3: 0.0591642
+Time Step: 180
+Quadrotor 0 to 4: 0.0368267
+Time Step: 180
+Quadrotor 0 to 5: 0.0588624
+Time Step: 180
+Quadrotor 0 to 6: 0.0271673
+Time Step: 180
+Quadrotor 0 to 7: 0.0332044
+Time Step: 181
+Quadrotor 0 to 1: 0.0353174
+Time Step: 181
+Quadrotor 0 to 2: 0.0431657
+Time Step: 181
+Quadrotor 0 to 3: 0.0582587
+Time Step: 181
+Quadrotor 0 to 4: 0.0356193
+Time Step: 181
+Quadrotor 0 to 5: 0.0449769
+Time Step: 181
+Quadrotor 0 to 6: 0.0265635
+Time Step: 181
+Quadrotor 0 to 7: 0.0316951
+Time Step: 182
+Quadrotor 0 to 1: 0.0365249
+Time Step: 182
+Quadrotor 0 to 2: 0.0440713
+Time Step: 182
+Quadrotor 0 to 3: 0.0594661
+Time Step: 182
+Quadrotor 0 to 4: 0.0371286
+Time Step: 182
+Quadrotor 0 to 5: 0.0464862
+Time Step: 182
+Quadrotor 0 to 6: 0.0431657
+Time Step: 182
+Quadrotor 0 to 7: 0.0407509
+Time Step: 183
+Quadrotor 0 to 1: 0.0344119
+Time Step: 183
+Quadrotor 0 to 2: 0.0416565
+Time Step: 183
+Quadrotor 0 to 3: 0.0564475
+Time Step: 183
+Quadrotor 0 to 4: 0.0350156
+Time Step: 183
+Quadrotor 0 to 5: 0.0443732
+Time Step: 183
+Quadrotor 0 to 6: 0.0259598
+Time Step: 183
+Quadrotor 0 to 7: 0.0310914
+Time Step: 184
+Quadrotor 0 to 1: 0.0501085
+Time Step: 184
+Quadrotor 0 to 2: 0.0434676
+Time Step: 184
+Quadrotor 0 to 3: 0.0582587
+Time Step: 184
+Quadrotor 0 to 4: 0.0356193
+Time Step: 184
+Quadrotor 0 to 5: 0.0452788
+Time Step: 184
+Quadrotor 0 to 6: 0.0259598
+Time Step: 184
+Quadrotor 0 to 7: 0.031997
+Time Step: 185
+Quadrotor 0 to 1: 0.0353174
+Time Step: 185
+Quadrotor 0 to 2: 0.0434676
+Time Step: 185
+Quadrotor 0 to 3: 0.0582587
+Time Step: 185
+Quadrotor 0 to 4: 0.0350156
+Time Step: 185
+Quadrotor 0 to 5: 0.0440713
+Time Step: 185
+Quadrotor 0 to 6: 0.0259598
+Time Step: 185
+Quadrotor 0 to 7: 0.0313933
+Time Step: 186
+Quadrotor 0 to 1: 0.0350156
+Time Step: 186
+Quadrotor 0 to 2: 0.0434676
+Time Step: 186
+Quadrotor 0 to 3: 0.0576549
+Time Step: 186
+Quadrotor 0 to 4: 0.0434676
+Time Step: 186
+Quadrotor 0 to 5: 0.0452788
+Time Step: 186
+Quadrotor 0 to 6: 0.0265635
+Time Step: 186
+Quadrotor 0 to 7: 0.0410527
+Time Step: 187
+Quadrotor 0 to 1: 0.0353174
+Time Step: 187
+Quadrotor 0 to 2: 0.0437695
+Time Step: 187
+Quadrotor 0 to 3: 0.0579568
+Time Step: 187
+Quadrotor 0 to 4: 0.0359211
+Time Step: 187
+Quadrotor 0 to 5: 0.0452788
+Time Step: 187
+Quadrotor 0 to 6: 0.0262617
+Time Step: 187
+Quadrotor 0 to 7: 0.0307896
+Time Step: 188
+Quadrotor 0 to 1: 0.059768
+Time Step: 188
+Quadrotor 0 to 2: 0.0434676
+Time Step: 188
+Quadrotor 0 to 3: 0.0573531
+Time Step: 188
+Quadrotor 0 to 4: 0.0359211
+Time Step: 188
+Quadrotor 0 to 5: 0.0449769
+Time Step: 188
+Quadrotor 0 to 6: 0.0262617
+Time Step: 188
+Quadrotor 0 to 7: 0.031997
+Time Step: 189
+Quadrotor 0 to 1: 0.0594661
+Time Step: 189
+Quadrotor 0 to 2: 0.0440713
+Time Step: 189
+Quadrotor 0 to 3: 0.0573531
+Time Step: 189
+Quadrotor 0 to 4: 0.0356193
+Time Step: 189
+Quadrotor 0 to 5: 0.0455806
+Time Step: 189
+Quadrotor 0 to 6: 0.0262617
+Time Step: 189
+Quadrotor 0 to 7: 0.0313933
+Time Step: 190
+Quadrotor 0 to 1: 0.0476936
+Time Step: 190
+Quadrotor 0 to 2: 0.0543345
+Time Step: 190
+Quadrotor 0 to 3: 0.0567494
+Time Step: 190
+Quadrotor 0 to 4: 0.0356193
+Time Step: 190
+Quadrotor 0 to 5: 0.0452788
+Time Step: 190
+Quadrotor 0 to 6: 0.0265635
+Time Step: 190
+Quadrotor 0 to 7: 0.0316951
+Time Step: 191
+Quadrotor 0 to 1: 0.036223
+Time Step: 191
+Quadrotor 0 to 2: 0.0561457
+Time Step: 191
+Quadrotor 0 to 3: 0.0564475
+Time Step: 191
+Quadrotor 0 to 4: 0.0359211
+Time Step: 191
+Quadrotor 0 to 5: 0.0452788
+Time Step: 191
+Quadrotor 0 to 6: 0.0265635
+Time Step: 191
+Quadrotor 0 to 7: 0.031997
+Time Step: 192
+Quadrotor 0 to 1: 0.0359211
+Time Step: 192
+Quadrotor 0 to 2: 0.0546364
+Time Step: 192
+Quadrotor 0 to 3: 0.0570512
+Time Step: 192
+Quadrotor 0 to 4: 0.0359211
+Time Step: 192
+Quadrotor 0 to 5: 0.0449769
+Time Step: 192
+Quadrotor 0 to 6: 0.0259598
+Time Step: 192
+Quadrotor 0 to 7: 0.031997
+Time Step: 193
+Quadrotor 0 to 1: 0.0470899
+Time Step: 193
+Quadrotor 0 to 2: 0.0434676
+Time Step: 193
+Quadrotor 0 to 3: 0.0573531
+Time Step: 193
+Quadrotor 0 to 4: 0.0353174
+Time Step: 193
+Quadrotor 0 to 5: 0.0452788
+Time Step: 193
+Quadrotor 0 to 6: 0.0259598
+Time Step: 193
+Quadrotor 0 to 7: 0.031997
+Time Step: 194
+Quadrotor 0 to 1: 0.0464862
+Time Step: 194
+Quadrotor 0 to 2: 0.0440713
+Time Step: 194
+Quadrotor 0 to 3: 0.0570512
+Time Step: 194
+Quadrotor 0 to 4: 0.0356193
+Time Step: 194
+Quadrotor 0 to 5: 0.0449769
+Time Step: 194
+Quadrotor 0 to 6: 0.0338081
+Time Step: 194
+Quadrotor 0 to 7: 0.031997
+Time Step: 195
+Quadrotor 0 to 1: 0.0455806
+Time Step: 195
+Quadrotor 0 to 2: 0.042562
+Time Step: 195
+Quadrotor 0 to 3: 0.0552401
+Time Step: 195
+Quadrotor 0 to 4: 0.0350156
+Time Step: 195
+Quadrotor 0 to 5: 0.0440713
+Time Step: 195
+Quadrotor 0 to 6: 0.025658
+Time Step: 195
+Quadrotor 0 to 7: 0.0416565
+Time Step: 196
+Quadrotor 0 to 1: 0.0464862
+Time Step: 196
+Quadrotor 0 to 2: 0.0440713
+Time Step: 196
+Quadrotor 0 to 3: 0.0564475
+Time Step: 196
+Quadrotor 0 to 4: 0.0356193
+Time Step: 196
+Quadrotor 0 to 5: 0.0440713
+Time Step: 196
+Quadrotor 0 to 6: 0.0253561
+Time Step: 196
+Quadrotor 0 to 7: 0.0573531
+Time Step: 197
+Quadrotor 0 to 1: 0.0464862
+Time Step: 197
+Quadrotor 0 to 2: 0.0434676
+Time Step: 197
+Quadrotor 0 to 3: 0.0573531
+Time Step: 197
+Quadrotor 0 to 4: 0.0434676
+Time Step: 197
+Quadrotor 0 to 5: 0.0434676
+Time Step: 197
+Quadrotor 0 to 6: 0.025658
+Time Step: 197
+Quadrotor 0 to 7: 0.0416565
+Time Step: 198
+Quadrotor 0 to 1: 0.0482973
+Time Step: 198
+Quadrotor 0 to 2: 0.0452788
+Time Step: 198
+Quadrotor 0 to 3: 0.0588624
+Time Step: 198
+Quadrotor 0 to 4: 0.0365249
+Time Step: 198
+Quadrotor 0 to 5: 0.0461843
+Time Step: 198
+Quadrotor 0 to 6: 0.0268654
+Time Step: 198
+Quadrotor 0 to 7: 0.0440713
+Time Step: 199
+Quadrotor 0 to 1: 0.046788
+Time Step: 199
+Quadrotor 0 to 2: 0.0670126
+Time Step: 199
+Quadrotor 0 to 3: 0.0564475
+Time Step: 199
+Quadrotor 0 to 4: 0.0359211
+Time Step: 199
+Quadrotor 0 to 5: 0.0452788
+Time Step: 199
+Quadrotor 0 to 6: 0.0262617
+Time Step: 199
+Quadrotor 0 to 7: 0.042562
+Time Step: 200
+Quadrotor 0 to 1: 0.046788
+Time Step: 200
+Quadrotor 0 to 2: 0.0652014
+Time Step: 200
+Quadrotor 0 to 3: 0.0721441
+Time Step: 200
+Quadrotor 0 to 4: 0.0365249
+Time Step: 200
+Quadrotor 0 to 5: 0.0461843
+Time Step: 200
+Quadrotor 0 to 6: 0.0271673
+Time Step: 200
+Quadrotor 0 to 7: 0.0440713
+Time Step: 201
+Quadrotor 0 to 1: 0.0485992
+Time Step: 201
+Quadrotor 0 to 2: 0.0691256
+Time Step: 201
+Quadrotor 0 to 3: 0.0576549
+Time Step: 201
+Quadrotor 0 to 4: 0.0368267
+Time Step: 201
+Quadrotor 0 to 5: 0.0458825
+Time Step: 201
+Quadrotor 0 to 6: 0.0262617
+Time Step: 201
+Quadrotor 0 to 7: 0.0585605
+Time Step: 202
+Quadrotor 0 to 1: 0.0464862
+Time Step: 202
+Quadrotor 0 to 2: 0.0670126
+Time Step: 202
+Quadrotor 0 to 3: 0.0567494
+Time Step: 202
+Quadrotor 0 to 4: 0.0356193
+Time Step: 202
+Quadrotor 0 to 5: 0.0443732
+Time Step: 202
+Quadrotor 0 to 6: 0.0265635
+Time Step: 202
+Quadrotor 0 to 7: 0.0431657
+Time Step: 203
+Quadrotor 0 to 1: 0.0482973
+Time Step: 203
+Quadrotor 0 to 2: 0.0688237
+Time Step: 203
+Quadrotor 0 to 3: 0.0582587
+Time Step: 203
+Quadrotor 0 to 4: 0.0359211
+Time Step: 203
+Quadrotor 0 to 5: 0.044675
+Time Step: 203
+Quadrotor 0 to 6: 0.0262617
+Time Step: 203
+Quadrotor 0 to 7: 0.042562
+Time Step: 204
+Quadrotor 0 to 1: 0.0470899
+Time Step: 204
+Quadrotor 0 to 2: 0.0670126
+Time Step: 204
+Quadrotor 0 to 3: 0.0564475
+Time Step: 204
+Quadrotor 0 to 4: 0.0356193
+Time Step: 204
+Quadrotor 0 to 5: 0.0443732
+Time Step: 204
+Quadrotor 0 to 6: 0.0262617
+Time Step: 204
+Quadrotor 0 to 7: 0.042562
+Time Step: 205
+Quadrotor 0 to 1: 0.046788
+Time Step: 205
+Quadrotor 0 to 2: 0.0667107
+Time Step: 205
+Quadrotor 0 to 3: 0.0564475
+Time Step: 205
+Quadrotor 0 to 4: 0.0356193
+Time Step: 205
+Quadrotor 0 to 5: 0.0440713
+Time Step: 205
+Quadrotor 0 to 6: 0.0265635
+Time Step: 205
+Quadrotor 0 to 7: 0.0428639
+Time Step: 206
+Quadrotor 0 to 1: 0.0455806
+Time Step: 206
+Quadrotor 0 to 2: 0.0431657
+Time Step: 206
+Quadrotor 0 to 3: 0.0796906
+Time Step: 206
+Quadrotor 0 to 4: 0.0347137
+Time Step: 206
+Quadrotor 0 to 5: 0.0428639
+Time Step: 206
+Quadrotor 0 to 6: 0.0253561
+Time Step: 206
+Quadrotor 0 to 7: 0.0419583
+Time Step: 207
+Quadrotor 0 to 1: 0.0470899
+Time Step: 207
+Quadrotor 0 to 2: 0.0443732
+Time Step: 207
+Quadrotor 0 to 3: 0.0564475
+Time Step: 207
+Quadrotor 0 to 4: 0.036223
+Time Step: 207
+Quadrotor 0 to 5: 0.0440713
+Time Step: 207
+Quadrotor 0 to 6: 0.0262617
+Time Step: 207
+Quadrotor 0 to 7: 0.0434676
+Time Step: 208
+Quadrotor 0 to 1: 0.0470899
+Time Step: 208
+Quadrotor 0 to 2: 0.0440713
+Time Step: 208
+Quadrotor 0 to 3: 0.0561457
+Time Step: 208
+Quadrotor 0 to 4: 0.036223
+Time Step: 208
+Quadrotor 0 to 5: 0.0440713
+Time Step: 208
+Quadrotor 0 to 6: 0.0262617
+Time Step: 208
+Quadrotor 0 to 7: 0.0431657
+Time Step: 209
+Quadrotor 0 to 1: 0.0476936
+Time Step: 209
+Quadrotor 0 to 2: 0.0449769
+Time Step: 209
+Quadrotor 0 to 3: 0.0582587
+Time Step: 209
+Quadrotor 0 to 4: 0.0374304
+Time Step: 209
+Quadrotor 0 to 5: 0.0455806
+Time Step: 209
+Quadrotor 0 to 6: 0.0271673
+Time Step: 209
+Quadrotor 0 to 7: 0.0443732
+Time Step: 210
+Quadrotor 0 to 1: 0.0485992
+Time Step: 210
+Quadrotor 0 to 2: 0.0452788
+Time Step: 210
+Quadrotor 0 to 3: 0.0579568
+Time Step: 210
+Quadrotor 0 to 4: 0.0371286
+Time Step: 210
+Quadrotor 0 to 5: 0.0452788
+Time Step: 210
+Quadrotor 0 to 6: 0.0268654
+Time Step: 210
+Quadrotor 0 to 7: 0.0443732
+Time Step: 211
+Quadrotor 0 to 1: 0.0470899
+Time Step: 211
+Quadrotor 0 to 2: 0.0440713
+Time Step: 211
+Quadrotor 0 to 3: 0.0332044
+Time Step: 211
+Quadrotor 0 to 4: 0.0359211
+Time Step: 211
+Quadrotor 0 to 5: 0.0440713
+Time Step: 211
+Quadrotor 0 to 6: 0.0262617
+Time Step: 211
+Quadrotor 0 to 7: 0.0507122
+Time Step: 212
+Quadrotor 0 to 1: 0.0470899
+Time Step: 212
+Quadrotor 0 to 2: 0.0440713
+Time Step: 212
+Quadrotor 0 to 3: 0.0335063
+Time Step: 212
+Quadrotor 0 to 4: 0.0359211
+Time Step: 212
+Quadrotor 0 to 5: 0.0329026
+Time Step: 212
+Quadrotor 0 to 6: 0.0259598
+Time Step: 212
+Quadrotor 0 to 7: 0.042562
+Time Step: 213
+Quadrotor 0 to 1: 0.046788
+Time Step: 213
+Quadrotor 0 to 2: 0.0443732
+Time Step: 213
+Quadrotor 0 to 3: 0.0332044
+Time Step: 213
+Quadrotor 0 to 4: 0.0356193
+Time Step: 213
+Quadrotor 0 to 5: 0.0332044
+Time Step: 213
+Quadrotor 0 to 6: 0.0262617
+Time Step: 213
+Quadrotor 0 to 7: 0.0422602
+Time Step: 214
+Quadrotor 0 to 1: 0.0482973
+Time Step: 214
+Quadrotor 0 to 2: 0.0455806
+Time Step: 214
+Quadrotor 0 to 3: 0.0344119
+Time Step: 214
+Quadrotor 0 to 4: 0.0365249
+Time Step: 214
+Quadrotor 0 to 5: 0.0338081
+Time Step: 214
+Quadrotor 0 to 6: 0.0271673
+Time Step: 214
+Quadrotor 0 to 7: 0.0440713
+Time Step: 215
+Quadrotor 0 to 1: 0.0473918
+Time Step: 215
+Quadrotor 0 to 2: 0.0440713
+Time Step: 215
+Quadrotor 0 to 3: 0.0335063
+Time Step: 215
+Quadrotor 0 to 4: 0.036223
+Time Step: 215
+Quadrotor 0 to 5: 0.0332044
+Time Step: 215
+Quadrotor 0 to 6: 0.0259598
+Time Step: 215
+Quadrotor 0 to 7: 0.042562
+Time Step: 216
+Quadrotor 0 to 1: 0.0470899
+Time Step: 216
+Quadrotor 0 to 2: 0.0443732
+Time Step: 216
+Quadrotor 0 to 3: 0.0329026
+Time Step: 216
+Quadrotor 0 to 4: 0.0359211
+Time Step: 216
+Quadrotor 0 to 5: 0.0329026
+Time Step: 216
+Quadrotor 0 to 6: 0.0259598
+Time Step: 216
+Quadrotor 0 to 7: 0.0428639
+Time Step: 217
+Quadrotor 0 to 1: 0.046788
+Time Step: 217
+Quadrotor 0 to 2: 0.0443732
+Time Step: 217
+Quadrotor 0 to 3: 0.0332044
+Time Step: 217
+Quadrotor 0 to 4: 0.0356193
+Time Step: 217
+Quadrotor 0 to 5: 0.0332044
+Time Step: 217
+Quadrotor 0 to 6: 0.0259598
+Time Step: 217
+Quadrotor 0 to 7: 0.042562
+Time Step: 218
+Quadrotor 0 to 1: 0.0470899
+Time Step: 218
+Quadrotor 0 to 2: 0.0440713
+Time Step: 218
+Quadrotor 0 to 3: 0.0413546
+Time Step: 218
+Quadrotor 0 to 4: 0.0359211
+Time Step: 218
+Quadrotor 0 to 5: 0.0332044
+Time Step: 218
+Quadrotor 0 to 6: 0.0262617
+Time Step: 218
+Quadrotor 0 to 7: 0.0428639
+Time Step: 219
+Quadrotor 0 to 1: 0.0473918
+Time Step: 219
+Quadrotor 0 to 2: 0.0440713
+Time Step: 219
+Quadrotor 0 to 3: 0.0335063
+Time Step: 219
+Quadrotor 0 to 4: 0.036223
+Time Step: 219
+Quadrotor 0 to 5: 0.0332044
+Time Step: 219
+Quadrotor 0 to 6: 0.0259598
+Time Step: 219
+Quadrotor 0 to 7: 0.0422602
+Time Step: 220
+Quadrotor 0 to 1: 0.0470899
+Time Step: 220
+Quadrotor 0 to 2: 0.0434676
+Time Step: 220
+Quadrotor 0 to 3: 0.0329026
+Time Step: 220
+Quadrotor 0 to 4: 0.0356193
+Time Step: 220
+Quadrotor 0 to 5: 0.0322988
+Time Step: 220
+Quadrotor 0 to 6: 0.0259598
+Time Step: 220
+Quadrotor 0 to 7: 0.042562
+Time Step: 221
+Quadrotor 0 to 1: 0.0470899
+Time Step: 221
+Quadrotor 0 to 2: 0.0431657
+Time Step: 221
+Quadrotor 0 to 3: 0.0332044
+Time Step: 221
+Quadrotor 0 to 4: 0.0350156
+Time Step: 221
+Quadrotor 0 to 5: 0.0326007
+Time Step: 221
+Quadrotor 0 to 6: 0.025658
+Time Step: 221
+Quadrotor 0 to 7: 0.042562
+Time Step: 222
+Quadrotor 0 to 1: 0.046788
+Time Step: 222
+Quadrotor 0 to 2: 0.0437695
+Time Step: 222
+Quadrotor 0 to 3: 0.0332044
+Time Step: 222
+Quadrotor 0 to 4: 0.0356193
+Time Step: 222
+Quadrotor 0 to 5: 0.0326007
+Time Step: 222
+Quadrotor 0 to 6: 0.0259598
+Time Step: 222
+Quadrotor 0 to 7: 0.0428639
+Time Step: 223
+Quadrotor 0 to 1: 0.046788
+Time Step: 223
+Quadrotor 0 to 2: 0.0440713
+Time Step: 223
+Quadrotor 0 to 3: 0.0332044
+Time Step: 223
+Quadrotor 0 to 4: 0.0356193
+Time Step: 223
+Quadrotor 0 to 5: 0.0335063
+Time Step: 223
+Quadrotor 0 to 6: 0.0265635
+Time Step: 223
+Quadrotor 0 to 7: 0.0437695
+Time Step: 224
+Quadrotor 0 to 1: 0.0455806
+Time Step: 224
+Quadrotor 0 to 2: 0.0428639
+Time Step: 224
+Quadrotor 0 to 3: 0.0322988
+Time Step: 224
+Quadrotor 0 to 4: 0.0350156
+Time Step: 224
+Quadrotor 0 to 5: 0.0316951
+Time Step: 224
+Quadrotor 0 to 6: 0.0250542
+Time Step: 224
+Quadrotor 0 to 7: 0.0416565
+Time Step: 225
+Quadrotor 0 to 1: 0.046788
+Time Step: 225
+Quadrotor 0 to 2: 0.0422602
+Time Step: 225
+Quadrotor 0 to 3: 0.0326007
+Time Step: 225
+Quadrotor 0 to 4: 0.0347137
+Time Step: 225
+Quadrotor 0 to 5: 0.031997
+Time Step: 225
+Quadrotor 0 to 6: 0.0253561
+Time Step: 225
+Quadrotor 0 to 7: 0.0416565
+Time Step: 226
+Quadrotor 0 to 1: 0.0455806
+Time Step: 226
+Quadrotor 0 to 2: 0.0422602
+Time Step: 226
+Quadrotor 0 to 3: 0.0326007
+Time Step: 226
+Quadrotor 0 to 4: 0.0350156
+Time Step: 226
+Quadrotor 0 to 5: 0.031997
+Time Step: 226
+Quadrotor 0 to 6: 0.0247524
+Time Step: 226
+Quadrotor 0 to 7: 0.0413546
+Time Step: 227
+Quadrotor 0 to 1: 0.0489011
+Time Step: 227
+Quadrotor 0 to 2: 0.0440713
+Time Step: 227
+Quadrotor 0 to 3: 0.0335063
+Time Step: 227
+Quadrotor 0 to 4: 0.0359211
+Time Step: 227
+Quadrotor 0 to 5: 0.0326007
+Time Step: 227
+Quadrotor 0 to 6: 0.0262617
+Time Step: 227
+Quadrotor 0 to 7: 0.042562
+Time Step: 228
+Quadrotor 0 to 1: 0.0479955
+Time Step: 228
+Quadrotor 0 to 2: 0.044675
+Time Step: 228
+Quadrotor 0 to 3: 0.0344119
+Time Step: 228
+Quadrotor 0 to 4: 0.0368267
+Time Step: 228
+Quadrotor 0 to 5: 0.03411
+Time Step: 228
+Quadrotor 0 to 6: 0.0262617
+Time Step: 228
+Quadrotor 0 to 7: 0.0437695
+Time Step: 229
+Quadrotor 0 to 1: 0.0464862
+Time Step: 229
+Quadrotor 0 to 2: 0.0431657
+Time Step: 229
+Quadrotor 0 to 3: 0.0332044
+Time Step: 229
+Quadrotor 0 to 4: 0.0356193
+Time Step: 229
+Quadrotor 0 to 5: 0.031997
+Time Step: 229
+Quadrotor 0 to 6: 0.0259598
+Time Step: 229
+Quadrotor 0 to 7: 0.0428639
+Time Step: 230
+Quadrotor 0 to 1: 0.0482973
+Time Step: 230
+Quadrotor 0 to 2: 0.0449769
+Time Step: 230
+Quadrotor 0 to 3: 0.0344119
+Time Step: 230
+Quadrotor 0 to 4: 0.0368267
+Time Step: 230
+Quadrotor 0 to 5: 0.0338081
+Time Step: 230
+Quadrotor 0 to 6: 0.0271673
+Time Step: 230
+Quadrotor 0 to 7: 0.0437695
+Time Step: 231
+Quadrotor 0 to 1: 0.0470899
+Time Step: 231
+Quadrotor 0 to 2: 0.0431657
+Time Step: 231
+Quadrotor 0 to 3: 0.0329026
+Time Step: 231
+Quadrotor 0 to 4: 0.0356193
+Time Step: 231
+Quadrotor 0 to 5: 0.0326007
+Time Step: 231
+Quadrotor 0 to 6: 0.0259598
+Time Step: 231
+Quadrotor 0 to 7: 0.042562
+Time Step: 232
+Quadrotor 0 to 1: 0.0464862
+Time Step: 232
+Quadrotor 0 to 2: 0.0434676
+Time Step: 232
+Quadrotor 0 to 3: 0.0329026
+Time Step: 232
+Quadrotor 0 to 4: 0.0356193
+Time Step: 232
+Quadrotor 0 to 5: 0.0316951
+Time Step: 232
+Quadrotor 0 to 6: 0.0253561
+Time Step: 232
+Quadrotor 0 to 7: 0.0413546
+Time Step: 233
+Quadrotor 0 to 1: 0.0470899
+Time Step: 233
+Quadrotor 0 to 2: 0.0437695
+Time Step: 233
+Quadrotor 0 to 3: 0.0332044
+Time Step: 233
+Quadrotor 0 to 4: 0.0359211
+Time Step: 233
+Quadrotor 0 to 5: 0.0322988
+Time Step: 233
+Quadrotor 0 to 6: 0.025658
+Time Step: 233
+Quadrotor 0 to 7: 0.042562
+Time Step: 234
+Quadrotor 0 to 1: 0.0582587
+Time Step: 234
+Quadrotor 0 to 2: 0.0434676
+Time Step: 234
+Quadrotor 0 to 3: 0.0332044
+Time Step: 234
+Quadrotor 0 to 4: 0.0353174
+Time Step: 234
+Quadrotor 0 to 5: 0.0326007
+Time Step: 234
+Quadrotor 0 to 6: 0.0262617
+Time Step: 234
+Quadrotor 0 to 7: 0.0431657
+Time Step: 235
+Quadrotor 0 to 1: 0.0588624
+Time Step: 235
+Quadrotor 0 to 2: 0.0431657
+Time Step: 235
+Quadrotor 0 to 3: 0.0338081
+Time Step: 235
+Quadrotor 0 to 4: 0.0356193
+Time Step: 235
+Quadrotor 0 to 5: 0.0322988
+Time Step: 235
+Quadrotor 0 to 6: 0.0259598
+Time Step: 235
+Quadrotor 0 to 7: 0.0431657
+Time Step: 236
+Quadrotor 0 to 1: 0.0582587
+Time Step: 236
+Quadrotor 0 to 2: 0.0434676
+Time Step: 236
+Quadrotor 0 to 3: 0.0329026
+Time Step: 236
+Quadrotor 0 to 4: 0.0356193
+Time Step: 236
+Quadrotor 0 to 5: 0.0322988
+Time Step: 236
+Quadrotor 0 to 6: 0.0259598
+Time Step: 236
+Quadrotor 0 to 7: 0.0428639
+Time Step: 237
+Quadrotor 0 to 1: 0.0573531
+Time Step: 237
+Quadrotor 0 to 2: 0.0419583
+Time Step: 237
+Quadrotor 0 to 3: 0.0322988
+Time Step: 237
+Quadrotor 0 to 4: 0.0347137
+Time Step: 237
+Quadrotor 0 to 5: 0.0322988
+Time Step: 237
+Quadrotor 0 to 6: 0.025658
+Time Step: 237
+Quadrotor 0 to 7: 0.0431657
+Time Step: 238
+Quadrotor 0 to 1: 0.0585605
+Time Step: 238
+Quadrotor 0 to 2: 0.0428639
+Time Step: 238
+Quadrotor 0 to 3: 0.0332044
+Time Step: 238
+Quadrotor 0 to 4: 0.0356193
+Time Step: 238
+Quadrotor 0 to 5: 0.0338081
+Time Step: 238
+Quadrotor 0 to 6: 0.0265635
+Time Step: 238
+Quadrotor 0 to 7: 0.0437695
+Time Step: 239
+Quadrotor 0 to 1: 0.0730497
+Time Step: 239
+Quadrotor 0 to 2: 0.0313933
+Time Step: 239
+Quadrotor 0 to 3: 0.031997
+Time Step: 239
+Quadrotor 0 to 4: 0.0350156
+Time Step: 239
+Quadrotor 0 to 5: 0.0316951
+Time Step: 239
+Quadrotor 0 to 6: 0.0250542
+Time Step: 239
+Quadrotor 0 to 7: 0.0422602
+Time Step: 240
+Quadrotor 0 to 1: 0.0603717
+Time Step: 240
+Quadrotor 0 to 2: 0.0335063
+Time Step: 240
+Quadrotor 0 to 3: 0.03411
+Time Step: 240
+Quadrotor 0 to 4: 0.0365249
+Time Step: 240
+Quadrotor 0 to 5: 0.0338081
+Time Step: 240
+Quadrotor 0 to 6: 0.0268654
+Time Step: 240
+Quadrotor 0 to 7: 0.0440713
+Time Step: 241
+Quadrotor 0 to 1: 0.0567494
+Time Step: 241
+Quadrotor 0 to 2: 0.0313933
+Time Step: 241
+Quadrotor 0 to 3: 0.0322988
+Time Step: 241
+Quadrotor 0 to 4: 0.0347137
+Time Step: 241
+Quadrotor 0 to 5: 0.0307896
+Time Step: 241
+Quadrotor 0 to 6: 0.0253561
+Time Step: 241
+Quadrotor 0 to 7: 0.0419583
+Time Step: 242
+Quadrotor 0 to 1: 0.0579568
+Time Step: 242
+Quadrotor 0 to 2: 0.0329026
+Time Step: 242
+Quadrotor 0 to 3: 0.0332044
+Time Step: 242
+Quadrotor 0 to 4: 0.0356193
+Time Step: 242
+Quadrotor 0 to 5: 0.0329026
+Time Step: 242
+Quadrotor 0 to 6: 0.0265635
+Time Step: 242
+Quadrotor 0 to 7: 0.042562
+Time Step: 243
+Quadrotor 0 to 1: 0.0582587
+Time Step: 243
+Quadrotor 0 to 2: 0.0335063
+Time Step: 243
+Quadrotor 0 to 3: 0.03411
+Time Step: 243
+Quadrotor 0 to 4: 0.0368267
+Time Step: 243
+Quadrotor 0 to 5: 0.0326007
+Time Step: 243
+Quadrotor 0 to 6: 0.0271673
+Time Step: 243
+Quadrotor 0 to 7: 0.0443732
+Time Step: 244
+Quadrotor 0 to 1: 0.0588624
+Time Step: 244
+Quadrotor 0 to 2: 0.0326007
+Time Step: 244
+Quadrotor 0 to 3: 0.0335063
+Time Step: 244
+Quadrotor 0 to 4: 0.0353174
+Time Step: 244
+Quadrotor 0 to 5: 0.0310914
+Time Step: 244
+Quadrotor 0 to 6: 0.03411
+Time Step: 244
+Quadrotor 0 to 7: 0.0428639
+Time Step: 245
+Quadrotor 0 to 1: 0.0588624
+Time Step: 245
+Quadrotor 0 to 2: 0.0329026
+Time Step: 245
+Quadrotor 0 to 3: 0.0338081
+Time Step: 245
+Quadrotor 0 to 4: 0.0359211
+Time Step: 245
+Quadrotor 0 to 5: 0.0326007
+Time Step: 245
+Quadrotor 0 to 6: 0.0259598
+Time Step: 245
+Quadrotor 0 to 7: 0.0431657
+Time Step: 246
+Quadrotor 0 to 1: 0.0585605
+Time Step: 246
+Quadrotor 0 to 2: 0.0332044
+Time Step: 246
+Quadrotor 0 to 3: 0.0332044
+Time Step: 246
+Quadrotor 0 to 4: 0.036223
+Time Step: 246
+Quadrotor 0 to 5: 0.031997
+Time Step: 246
+Quadrotor 0 to 6: 0.0259598
+Time Step: 246
+Quadrotor 0 to 7: 0.0431657
+Time Step: 247
+Quadrotor 0 to 1: 0.0579568
+Time Step: 247
+Quadrotor 0 to 2: 0.0326007
+Time Step: 247
+Quadrotor 0 to 3: 0.0449769
+Time Step: 247
+Quadrotor 0 to 4: 0.0356193
+Time Step: 247
+Quadrotor 0 to 5: 0.0326007
+Time Step: 247
+Quadrotor 0 to 6: 0.0265635
+Time Step: 247
+Quadrotor 0 to 7: 0.042562
+Time Step: 248
+Quadrotor 0 to 1: 0.0585605
+Time Step: 248
+Quadrotor 0 to 2: 0.031997
+Time Step: 248
+Quadrotor 0 to 3: 0.0449769
+Time Step: 248
+Quadrotor 0 to 4: 0.0356193
+Time Step: 248
+Quadrotor 0 to 5: 0.0316951
+Time Step: 248
+Quadrotor 0 to 6: 0.0259598
+Time Step: 248
+Quadrotor 0 to 7: 0.0431657
+Time Step: 249
+Quadrotor 0 to 1: 0.0588624
+Time Step: 249
+Quadrotor 0 to 2: 0.031997
+Time Step: 249
+Quadrotor 0 to 3: 0.0721441
+Time Step: 249
+Quadrotor 0 to 4: 0.0356193
+Time Step: 249
+Quadrotor 0 to 5: 0.031997
+Time Step: 249
+Quadrotor 0 to 6: 0.0262617
+Time Step: 249
+Quadrotor 0 to 7: 0.0428639
+Time Step: 250
+Quadrotor 0 to 1: 0.0573531
+Time Step: 250
+Quadrotor 0 to 2: 0.0316951
+Time Step: 250
+Quadrotor 0 to 3: 0.0543345
+Time Step: 250
+Quadrotor 0 to 4: 0.0347137
+Time Step: 250
+Quadrotor 0 to 5: 0.0316951
+Time Step: 250
+Quadrotor 0 to 6: 0.0250542
+Time Step: 250
+Quadrotor 0 to 7: 0.0307896
+Time Step: 251
+Quadrotor 0 to 1: 0.0582587
+Time Step: 251
+Quadrotor 0 to 2: 0.0326007
+Time Step: 251
+Quadrotor 0 to 3: 0.0561457
+Time Step: 251
+Quadrotor 0 to 4: 0.0356193
+Time Step: 251
+Quadrotor 0 to 5: 0.0322988
+Time Step: 251
+Quadrotor 0 to 6: 0.025658
+Time Step: 251
+Quadrotor 0 to 7: 0.0313933
+Time Step: 252
+Quadrotor 0 to 1: 0.0582587
+Time Step: 252
+Quadrotor 0 to 2: 0.031997
+Time Step: 252
+Quadrotor 0 to 3: 0.0564475
+Time Step: 252
+Quadrotor 0 to 4: 0.036223
+Time Step: 252
+Quadrotor 0 to 5: 0.0434676
+Time Step: 252
+Quadrotor 0 to 6: 0.0262617
+Time Step: 252
+Quadrotor 0 to 7: 0.0316951
+Time Step: 253
+Quadrotor 0 to 1: 0.0585605
+Time Step: 253
+Quadrotor 0 to 2: 0.0322988
+Time Step: 253
+Quadrotor 0 to 3: 0.0567494
+Time Step: 253
+Quadrotor 0 to 4: 0.0356193
+Time Step: 253
+Quadrotor 0 to 5: 0.0437695
+Time Step: 253
+Quadrotor 0 to 6: 0.0259598
+Time Step: 253
+Quadrotor 0 to 7: 0.0316951
+Time Step: 254
+Quadrotor 0 to 1: 0.0582587
+Time Step: 254
+Quadrotor 0 to 2: 0.0329026
+Time Step: 254
+Quadrotor 0 to 3: 0.0582587
+Time Step: 254
+Quadrotor 0 to 4: 0.0371286
+Time Step: 254
+Quadrotor 0 to 5: 0.044675
+Time Step: 254
+Quadrotor 0 to 6: 0.0268654
+Time Step: 254
+Quadrotor 0 to 7: 0.0322988
+Time Step: 255
+Quadrotor 0 to 1: 0.0585605
+Time Step: 255
+Quadrotor 0 to 2: 0.0316951
+Time Step: 255
+Quadrotor 0 to 3: 0.0561457
+Time Step: 255
+Quadrotor 0 to 4: 0.0359211
+Time Step: 255
+Quadrotor 0 to 5: 0.0431657
+Time Step: 255
+Quadrotor 0 to 6: 0.0262617
+Time Step: 255
+Quadrotor 0 to 7: 0.031997
+Time Step: 256
+Quadrotor 0 to 1: 0.0585605
+Time Step: 256
+Quadrotor 0 to 2: 0.031997
+Time Step: 256
+Quadrotor 0 to 3: 0.0570512
+Time Step: 256
+Quadrotor 0 to 4: 0.0356193
+Time Step: 256
+Quadrotor 0 to 5: 0.0431657
+Time Step: 256
+Quadrotor 0 to 6: 0.0262617
+Time Step: 256
+Quadrotor 0 to 7: 0.0316951
+Time Step: 257
+Quadrotor 0 to 1: 0.0591642
+Time Step: 257
+Quadrotor 0 to 2: 0.031997
+Time Step: 257
+Quadrotor 0 to 3: 0.0564475
+Time Step: 257
+Quadrotor 0 to 4: 0.0359211
+Time Step: 257
+Quadrotor 0 to 5: 0.0431657
+Time Step: 257
+Quadrotor 0 to 6: 0.0265635
+Time Step: 257
+Quadrotor 0 to 7: 0.0329026
+Time Step: 258
+Quadrotor 0 to 1: 0.0603717
+Time Step: 258
+Quadrotor 0 to 2: 0.0329026
+Time Step: 258
+Quadrotor 0 to 3: 0.0588624
+Time Step: 258
+Quadrotor 0 to 4: 0.0359211
+Time Step: 258
+Quadrotor 0 to 5: 0.0434676
+Time Step: 258
+Quadrotor 0 to 6: 0.0262617
+Time Step: 258
+Quadrotor 0 to 7: 0.031997
+Time Step: 259
+Quadrotor 0 to 1: 0.0606735
+Time Step: 259
+Quadrotor 0 to 2: 0.0329026
+Time Step: 259
+Quadrotor 0 to 3: 0.0585605
+Time Step: 259
+Quadrotor 0 to 4: 0.0368267
+Time Step: 259
+Quadrotor 0 to 5: 0.0449769
+Time Step: 259
+Quadrotor 0 to 6: 0.0268654
+Time Step: 259
+Quadrotor 0 to 7: 0.0326007
+Time Step: 260
+Quadrotor 0 to 1: 0.0606735
+Time Step: 260
+Quadrotor 0 to 2: 0.0329026
+Time Step: 260
+Quadrotor 0 to 3: 0.0585605
+Time Step: 260
+Quadrotor 0 to 4: 0.0368267
+Time Step: 260
+Quadrotor 0 to 5: 0.044675
+Time Step: 260
+Quadrotor 0 to 6: 0.0268654
+Time Step: 260
+Quadrotor 0 to 7: 0.0329026
+Time Step: 261
+Quadrotor 0 to 1: 0.0588624
+Time Step: 261
+Quadrotor 0 to 2: 0.031997
+Time Step: 261
+Quadrotor 0 to 3: 0.0567494
+Time Step: 261
+Quadrotor 0 to 4: 0.0359211
+Time Step: 261
+Quadrotor 0 to 5: 0.0434676
+Time Step: 261
+Quadrotor 0 to 6: 0.0262617
+Time Step: 261
+Quadrotor 0 to 7: 0.0316951
+Time Step: 262
+Quadrotor 0 to 1: 0.0609754
+Time Step: 262
+Quadrotor 0 to 2: 0.0329026
+Time Step: 262
+Quadrotor 0 to 3: 0.0585605
+Time Step: 262
+Quadrotor 0 to 4: 0.0374304
+Time Step: 262
+Quadrotor 0 to 5: 0.0437695
+Time Step: 262
+Quadrotor 0 to 6: 0.0259598
+Time Step: 262
+Quadrotor 0 to 7: 0.0316951
+Time Step: 263
+Quadrotor 0 to 1: 0.0588624
+Time Step: 263
+Quadrotor 0 to 2: 0.0322988
+Time Step: 263
+Quadrotor 0 to 3: 0.0573531
+Time Step: 263
+Quadrotor 0 to 4: 0.0356193
+Time Step: 263
+Quadrotor 0 to 5: 0.0431657
+Time Step: 263
+Quadrotor 0 to 6: 0.0262617
+Time Step: 263
+Quadrotor 0 to 7: 0.0316951
+Time Step: 264
+Quadrotor 0 to 1: 0.0606735
+Time Step: 264
+Quadrotor 0 to 2: 0.0335063
+Time Step: 264
+Quadrotor 0 to 3: 0.0591642
+Time Step: 264
+Quadrotor 0 to 4: 0.0365249
+Time Step: 264
+Quadrotor 0 to 5: 0.0449769
+Time Step: 264
+Quadrotor 0 to 6: 0.0265635
+Time Step: 264
+Quadrotor 0 to 7: 0.0326007
+Time Step: 265
+Quadrotor 0 to 1: 0.0685218
+Time Step: 265
+Quadrotor 0 to 2: 0.0326007
+Time Step: 265
+Quadrotor 0 to 3: 0.0558438
+Time Step: 265
+Quadrotor 0 to 4: 0.036223
+Time Step: 265
+Quadrotor 0 to 5: 0.0434676
+Time Step: 265
+Quadrotor 0 to 6: 0.0259598
+Time Step: 265
+Quadrotor 0 to 7: 0.031997
+Time Step: 266
+Quadrotor 0 to 1: 0.0585605
+Time Step: 266
+Quadrotor 0 to 2: 0.0322988
+Time Step: 266
+Quadrotor 0 to 3: 0.0567494
+Time Step: 266
+Quadrotor 0 to 4: 0.0359211
+Time Step: 266
+Quadrotor 0 to 5: 0.0437695
+Time Step: 266
+Quadrotor 0 to 6: 0.0262617
+Time Step: 266
+Quadrotor 0 to 7: 0.0316951
+Time Step: 267
+Quadrotor 0 to 1: 0.0588624
+Time Step: 267
+Quadrotor 0 to 2: 0.0316951
+Time Step: 267
+Quadrotor 0 to 3: 0.0558438
+Time Step: 267
+Quadrotor 0 to 4: 0.0350156
+Time Step: 267
+Quadrotor 0 to 5: 0.042562
+Time Step: 267
+Quadrotor 0 to 6: 0.025658
+Time Step: 267
+Quadrotor 0 to 7: 0.0310914
+Time Step: 268
+Quadrotor 0 to 1: 0.0588624
+Time Step: 268
+Quadrotor 0 to 2: 0.0322988
+Time Step: 268
+Quadrotor 0 to 3: 0.0573531
+Time Step: 268
+Quadrotor 0 to 4: 0.036223
+Time Step: 268
+Quadrotor 0 to 5: 0.0437695
+Time Step: 268
+Quadrotor 0 to 6: 0.0265635
+Time Step: 268
+Quadrotor 0 to 7: 0.031997
+Time Step: 269
+Quadrotor 0 to 1: 0.059768
+Time Step: 269
+Quadrotor 0 to 2: 0.0316951
+Time Step: 269
+Quadrotor 0 to 3: 0.0576549
+Time Step: 269
+Quadrotor 0 to 4: 0.0359211
+Time Step: 269
+Quadrotor 0 to 5: 0.0434676
+Time Step: 269
+Quadrotor 0 to 6: 0.0262617
+Time Step: 269
+Quadrotor 0 to 7: 0.0316951
+Time Step: 270
+Quadrotor 0 to 1: 0.0588624
+Time Step: 270
+Quadrotor 0 to 2: 0.0322988
+Time Step: 270
+Quadrotor 0 to 3: 0.0594661
+Time Step: 270
+Quadrotor 0 to 4: 0.0359211
+Time Step: 270
+Quadrotor 0 to 5: 0.0437695
+Time Step: 270
+Quadrotor 0 to 6: 0.025658
+Time Step: 270
+Quadrotor 0 to 7: 0.0313933
+Time Step: 271
+Quadrotor 0 to 1: 0.0588624
+Time Step: 271
+Quadrotor 0 to 2: 0.031997
+Time Step: 271
+Quadrotor 0 to 3: 0.0576549
+Time Step: 271
+Quadrotor 0 to 4: 0.0359211
+Time Step: 271
+Quadrotor 0 to 5: 0.0437695
+Time Step: 271
+Quadrotor 0 to 6: 0.0259598
+Time Step: 271
+Quadrotor 0 to 7: 0.0316951
+Time Step: 272
+Quadrotor 0 to 1: 0.0588624
+Time Step: 272
+Quadrotor 0 to 2: 0.0322988
+Time Step: 272
+Quadrotor 0 to 3: 0.0576549
+Time Step: 272
+Quadrotor 0 to 4: 0.036223
+Time Step: 272
+Quadrotor 0 to 5: 0.0676163
+Time Step: 272
+Quadrotor 0 to 6: 0.03411
+Time Step: 272
+Quadrotor 0 to 7: 0.0326007
+Time Step: 273
+Quadrotor 0 to 1: 0.0591642
+Time Step: 273
+Quadrotor 0 to 2: 0.0322988
+Time Step: 273
+Quadrotor 0 to 3: 0.0582587
+Time Step: 273
+Quadrotor 0 to 4: 0.036223
+Time Step: 273
+Quadrotor 0 to 5: 0.0431657
+Time Step: 273
+Quadrotor 0 to 6: 0.0259598
+Time Step: 273
+Quadrotor 0 to 7: 0.0316951
+Time Step: 274
+Quadrotor 0 to 1: 0.0591642
+Time Step: 274
+Quadrotor 0 to 2: 0.0316951
+Time Step: 274
+Quadrotor 0 to 3: 0.0579568
+Time Step: 274
+Quadrotor 0 to 4: 0.0359211
+Time Step: 274
+Quadrotor 0 to 5: 0.0434676
+Time Step: 274
+Quadrotor 0 to 6: 0.0265635
+Time Step: 274
+Quadrotor 0 to 7: 0.0316951
+Time Step: 275
+Quadrotor 0 to 1: 0.0588624
+Time Step: 275
+Quadrotor 0 to 2: 0.0316951
+Time Step: 275
+Quadrotor 0 to 3: 0.0576549
+Time Step: 275
+Quadrotor 0 to 4: 0.0365249
+Time Step: 275
+Quadrotor 0 to 5: 0.0431657
+Time Step: 275
+Quadrotor 0 to 6: 0.0262617
+Time Step: 275
+Quadrotor 0 to 7: 0.0316951
+Time Step: 276
+Quadrotor 0 to 1: 0.0585605
+Time Step: 276
+Quadrotor 0 to 2: 0.031997
+Time Step: 276
+Quadrotor 0 to 3: 0.0579568
+Time Step: 276
+Quadrotor 0 to 4: 0.0356193
+Time Step: 276
+Quadrotor 0 to 5: 0.0431657
+Time Step: 276
+Quadrotor 0 to 6: 0.0259598
+Time Step: 276
+Quadrotor 0 to 7: 0.0316951
+Time Step: 277
+Quadrotor 0 to 1: 0.0570512
+Time Step: 277
+Quadrotor 0 to 2: 0.0307896
+Time Step: 277
+Quadrotor 0 to 3: 0.0561457
+Time Step: 277
+Quadrotor 0 to 4: 0.0359211
+Time Step: 277
+Quadrotor 0 to 5: 0.0428639
+Time Step: 277
+Quadrotor 0 to 6: 0.0259598
+Time Step: 277
+Quadrotor 0 to 7: 0.0326007
+Time Step: 278
+Quadrotor 0 to 1: 0.0585605
+Time Step: 278
+Quadrotor 0 to 2: 0.0316951
+Time Step: 278
+Quadrotor 0 to 3: 0.0579568
+Time Step: 278
+Quadrotor 0 to 4: 0.036223
+Time Step: 278
+Quadrotor 0 to 5: 0.0428639
+Time Step: 278
+Quadrotor 0 to 6: 0.0259598
+Time Step: 278
+Quadrotor 0 to 7: 0.0313933
+Time Step: 279
+Quadrotor 0 to 1: 0.0588624
+Time Step: 279
+Quadrotor 0 to 2: 0.0316951
+Time Step: 279
+Quadrotor 0 to 3: 0.0736534
+Time Step: 279
+Quadrotor 0 to 4: 0.0365249
+Time Step: 279
+Quadrotor 0 to 5: 0.0428639
+Time Step: 279
+Quadrotor 0 to 6: 0.0262617
+Time Step: 279
+Quadrotor 0 to 7: 0.0313933
+Time Step: 280
+Quadrotor 0 to 1: 0.0588624
+Time Step: 280
+Quadrotor 0 to 2: 0.031997
+Time Step: 280
+Quadrotor 0 to 3: 0.0576549
+Time Step: 280
+Quadrotor 0 to 4: 0.036223
+Time Step: 280
+Quadrotor 0 to 5: 0.0434676
+Time Step: 280
+Quadrotor 0 to 6: 0.025658
+Time Step: 280
+Quadrotor 0 to 7: 0.0316951
+Time Step: 281
+Quadrotor 0 to 1: 0.0588624
+Time Step: 281
+Quadrotor 0 to 2: 0.0316951
+Time Step: 281
+Quadrotor 0 to 3: 0.0576549
+Time Step: 281
+Quadrotor 0 to 4: 0.0365249
+Time Step: 281
+Quadrotor 0 to 5: 0.0431657
+Time Step: 281
+Quadrotor 0 to 6: 0.025658
+Time Step: 281
+Quadrotor 0 to 7: 0.0316951
+Time Step: 282
+Quadrotor 0 to 1: 0.0606735
+Time Step: 282
+Quadrotor 0 to 2: 0.0332044
+Time Step: 282
+Quadrotor 0 to 3: 0.0591642
+Time Step: 282
+Quadrotor 0 to 4: 0.0371286
+Time Step: 282
+Quadrotor 0 to 5: 0.0419583
+Time Step: 282
+Quadrotor 0 to 6: 0.0253561
+Time Step: 282
+Quadrotor 0 to 7: 0.0326007
+Time Step: 283
+Quadrotor 0 to 1: 0.0588624
+Time Step: 283
+Quadrotor 0 to 2: 0.031997
+Time Step: 283
+Quadrotor 0 to 3: 0.0576549
+Time Step: 283
+Quadrotor 0 to 4: 0.0359211
+Time Step: 283
+Quadrotor 0 to 5: 0.0434676
+Time Step: 283
+Quadrotor 0 to 6: 0.0259598
+Time Step: 283
+Quadrotor 0 to 7: 0.031997
+Time Step: 284
+Quadrotor 0 to 1: 0.0594661
+Time Step: 284
+Quadrotor 0 to 2: 0.0398453
+Time Step: 284
+Quadrotor 0 to 3: 0.0579568
+Time Step: 284
+Quadrotor 0 to 4: 0.0359211
+Time Step: 284
+Quadrotor 0 to 5: 0.0431657
+Time Step: 284
+Quadrotor 0 to 6: 0.0259598
+Time Step: 284
+Quadrotor 0 to 7: 0.0316951
+Time Step: 285
+Quadrotor 0 to 1: 0.0591642
+Time Step: 285
+Quadrotor 0 to 2: 0.0316951
+Time Step: 285
+Quadrotor 0 to 3: 0.0576549
+Time Step: 285
+Quadrotor 0 to 4: 0.036223
+Time Step: 285
+Quadrotor 0 to 5: 0.0428639
+Time Step: 285
+Quadrotor 0 to 6: 0.0259598
+Time Step: 285
+Quadrotor 0 to 7: 0.0316951
+Time Step: 286
+Quadrotor 0 to 1: 0.0573531
+Time Step: 286
+Quadrotor 0 to 2: 0.0307896
+Time Step: 286
+Quadrotor 0 to 3: 0.0561457
+Time Step: 286
+Quadrotor 0 to 4: 0.0350156
+Time Step: 286
+Quadrotor 0 to 5: 0.0313933
+Time Step: 286
+Quadrotor 0 to 6: 0.0250542
+Time Step: 286
+Quadrotor 0 to 7: 0.0310914
+Time Step: 287
+Quadrotor 0 to 1: 0.0609754
+Time Step: 287
+Quadrotor 0 to 2: 0.031997
+Time Step: 287
+Quadrotor 0 to 3: 0.0576549
+Time Step: 287
+Quadrotor 0 to 4: 0.0356193
+Time Step: 287
+Quadrotor 0 to 5: 0.0322988
+Time Step: 287
+Quadrotor 0 to 6: 0.0262617
+Time Step: 287
+Quadrotor 0 to 7: 0.0316951
+Time Step: 288
+Quadrotor 0 to 1: 0.0576549
+Time Step: 288
+Quadrotor 0 to 2: 0.0307896
+Time Step: 288
+Quadrotor 0 to 3: 0.0564475
+Time Step: 288
+Quadrotor 0 to 4: 0.0434676
+Time Step: 288
+Quadrotor 0 to 5: 0.0313933
+Time Step: 288
+Quadrotor 0 to 6: 0.0250542
+Time Step: 288
+Quadrotor 0 to 7: 0.0395434
+Time Step: 289
+Quadrotor 0 to 1: 0.0606735
+Time Step: 289
+Quadrotor 0 to 2: 0.0326007
+Time Step: 289
+Quadrotor 0 to 3: 0.0591642
+Time Step: 289
+Quadrotor 0 to 4: 0.0371286
+Time Step: 289
+Quadrotor 0 to 5: 0.0335063
+Time Step: 289
+Quadrotor 0 to 6: 0.0262617
+Time Step: 289
+Quadrotor 0 to 7: 0.0326007
+Time Step: 290
+Quadrotor 0 to 1: 0.0594661
+Time Step: 290
+Quadrotor 0 to 2: 0.0322988
+Time Step: 290
+Quadrotor 0 to 3: 0.0576549
+Time Step: 290
+Quadrotor 0 to 4: 0.036223
+Time Step: 290
+Quadrotor 0 to 5: 0.0329026
+Time Step: 290
+Quadrotor 0 to 6: 0.0259598
+Time Step: 290
+Quadrotor 0 to 7: 0.0313933
+Time Step: 291
+Quadrotor 0 to 1: 0.0588624
+Time Step: 291
+Quadrotor 0 to 2: 0.0322988
+Time Step: 291
+Quadrotor 0 to 3: 0.0576549
+Time Step: 291
+Quadrotor 0 to 4: 0.0359211
+Time Step: 291
+Quadrotor 0 to 5: 0.0329026
+Time Step: 291
+Quadrotor 0 to 6: 0.0259598
+Time Step: 291
+Quadrotor 0 to 7: 0.0316951
+Time Step: 292
+Quadrotor 0 to 1: 0.0588624
+Time Step: 292
+Quadrotor 0 to 2: 0.0322988
+Time Step: 292
+Quadrotor 0 to 3: 0.0579568
+Time Step: 292
+Quadrotor 0 to 4: 0.0359211
+Time Step: 292
+Quadrotor 0 to 5: 0.0329026
+Time Step: 292
+Quadrotor 0 to 6: 0.0262617
+Time Step: 292
+Quadrotor 0 to 7: 0.0316951
+Time Step: 293
+Quadrotor 0 to 1: 0.0591642
+Time Step: 293
+Quadrotor 0 to 2: 0.0329026
+Time Step: 293
+Quadrotor 0 to 3: 0.0576549
+Time Step: 293
+Quadrotor 0 to 4: 0.0356193
+Time Step: 293
+Quadrotor 0 to 5: 0.0489011
+Time Step: 293
+Quadrotor 0 to 6: 0.0259598
+Time Step: 293
+Quadrotor 0 to 7: 0.0316951
+Time Step: 294
+Quadrotor 0 to 1: 0.0612772
+Time Step: 294
+Quadrotor 0 to 2: 0.0329026
+Time Step: 294
+Quadrotor 0 to 3: 0.0588624
+Time Step: 294
+Quadrotor 0 to 4: 0.0368267
+Time Step: 294
+Quadrotor 0 to 5: 0.0335063
+Time Step: 294
+Quadrotor 0 to 6: 0.0265635
+Time Step: 294
+Quadrotor 0 to 7: 0.0326007
+Time Step: 295
+Quadrotor 0 to 1: 0.0573531
+Time Step: 295
+Quadrotor 0 to 2: 0.0316951
+Time Step: 295
+Quadrotor 0 to 3: 0.0561457
+Time Step: 295
+Quadrotor 0 to 4: 0.0350156
+Time Step: 295
+Quadrotor 0 to 5: 0.0322988
+Time Step: 295
+Quadrotor 0 to 6: 0.0253561
+Time Step: 295
+Quadrotor 0 to 7: 0.0307896
+Time Step: 296
+Quadrotor 0 to 1: 0.0585605
+Time Step: 296
+Quadrotor 0 to 2: 0.0322988
+Time Step: 296
+Quadrotor 0 to 3: 0.0573531
+Time Step: 296
+Quadrotor 0 to 4: 0.0359211
+Time Step: 296
+Quadrotor 0 to 5: 0.0332044
+Time Step: 296
+Quadrotor 0 to 6: 0.0259598
+Time Step: 296
+Quadrotor 0 to 7: 0.0313933
+Time Step: 297
+Quadrotor 0 to 1: 0.0585605
+Time Step: 297
+Quadrotor 0 to 2: 0.0326007
+Time Step: 297
+Quadrotor 0 to 3: 0.0573531
+Time Step: 297
+Quadrotor 0 to 4: 0.036223
+Time Step: 297
+Quadrotor 0 to 5: 0.0329026
+Time Step: 297
+Quadrotor 0 to 6: 0.0259598
+Time Step: 297
+Quadrotor 0 to 7: 0.0316951
+Time Step: 298
+Quadrotor 0 to 1: 0.0585605
+Time Step: 298
+Quadrotor 0 to 2: 0.0322988
+Time Step: 298
+Quadrotor 0 to 3: 0.0579568
+Time Step: 298
+Quadrotor 0 to 4: 0.0356193
+Time Step: 298
+Quadrotor 0 to 5: 0.0329026
+Time Step: 298
+Quadrotor 0 to 6: 0.0259598
+Time Step: 298
+Quadrotor 0 to 7: 0.0316951
+Time Step: 299
+Quadrotor 0 to 1: 0.0603717
+Time Step: 299
+Quadrotor 0 to 2: 0.0322988
+Time Step: 299
+Quadrotor 0 to 3: 0.0576549
+Time Step: 299
+Quadrotor 0 to 4: 0.0440713
+Time Step: 299
+Quadrotor 0 to 5: 0.0326007
+Time Step: 299
+Quadrotor 0 to 6: 0.0259598
+Time Step: 299
+Quadrotor 0 to 7: 0.0313933

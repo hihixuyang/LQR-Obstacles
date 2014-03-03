@@ -1,0 +1,173 @@
+﻿Build started 2/15/2012 2:24:39 PM.
+     1>Project "C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\QuadrotorHoverController.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\QuadrotorHoverController.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Daman\Documents\1_theU\ARL Stuff\QuadSim\include" /I..\..\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp"
+         LQRObstacles.cpp
+     1>c:\users\daman bareiss\documents\lqrobstacles\arl stuff\jur's simulator\quadsim\quadrotorhovercontroller\quadrotorhovercontroller\Vector3.h(115): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman bareiss\documents\lqrobstacles\arl stuff\jur's simulator\quadsim\quadrotorhovercontroller\quadrotorhovercontroller\Vector3.h(116): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daman bareiss\documents\lqrobstacles\arl stuff\jur's simulator\quadsim\quadrotorhovercontroller\quadrotorhovercontroller\Vector3.h(117): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(221): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(221): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(221): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(223): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(223): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(223): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(232): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(234): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(236): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(238): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(240): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(240): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(240): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(240): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(242): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(245): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(248): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(251): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(252): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(254): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(254): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(254): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(254): warning C4244: 'argument' : conversion from 'double' to 'CAL_scalar', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(258): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(258): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(260): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(260): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(261): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(261): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(262): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(262): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(265): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(267): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(270): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(271): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(271): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(272): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(272): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(275): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(276): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(276): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(277): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(277): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(278): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(279): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(279): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(280): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(280): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(282): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(282): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(282): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(283): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(284): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(284): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(285): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(285): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(286): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(287): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(287): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(288): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(288): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(290): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(290): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(290): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(291): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(292): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(292): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(293): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(293): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(294): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(295): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(295): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(296): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(296): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(298): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(298): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(298): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(310): warning C4305: 'argument' : truncation from 'double' to 'CAL_scalar'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(310): warning C4305: 'argument' : truncation from 'double' to 'CAL_scalar'
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(804): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(838): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(878): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(966): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(930): warning C4101: 'index' : unreferenced local variable
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1142): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1143): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1145): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1156): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1236): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1483): warning C4101: 'halfPlaneVector' : unreferenced local variable
+     1>..\..\..\..\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\LQRObstacles.cpp(1482): warning C4101: 'numVertices' : unreferenced local variable
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\QuadrotorHoverController.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Daman\Documents\1_theU\ARL Stuff\QuadSim\lib" /LIBPATH:..\..\lib callisto.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\QuadrotorHoverController.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\QuadrotorHoverController.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\QuadrotorHoverController.lib" /MACHINE:X86 Release\gjk.obj
+         Release\LQRObstacles.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+     1>gjk.obj : warning LNK4099: PDB 'vc100.pdb' was not found with 'gjk.obj' or at 'C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\vc100.pdb'; linking object as if no debug info
+     1>stdafx.obj : warning LNK4099: PDB 'vc100.pdb' was not found with 'stdafx.obj' or at 'C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\vc100.pdb'; linking object as if no debug info
+         QuadrotorHoverController.vcxproj -> C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\QuadrotorHoverController.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\Release\QuadrotorHoverController.exe;#1" /manifest Release\QuadrotorHoverController.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\QuadrotorHoverController.unsuccessfulbuild".
+         Touching "Release\QuadrotorHoverController.lastbuildstate".
+     1>Done Building Project "C:\Users\Daman Bareiss\Documents\LQRObstacles\ARL Stuff\Jur's Simulator\QuadSim\QuadrotorHoverController\QuadrotorHoverController\QuadrotorHoverController.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.69

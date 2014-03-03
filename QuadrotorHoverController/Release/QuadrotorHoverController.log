@@ -1,0 +1,23 @@
+﻿Build started 3/3/2014 10:54:42 AM.
+     1>Project "C:\Users\Daman\Desktop\Simulator\QuadrotorHoverController\QuadrotorHoverController.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\QuadrotorHoverController.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daman\Desktop\Simulator\Release\QuadrotorHoverController.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Daman\Desktop\Simulator\\lib /LIBPATH:..\..\lib callisto.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\QuadrotorHoverController.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daman\Desktop\Simulator\Release\QuadrotorHoverController.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daman\Desktop\Simulator\Release\QuadrotorHoverController.lib" /MACHINE:X86 /PROFILE Release\gjk.obj
+         "Release\LQRObstaclesPositionControl(Working).obj"
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         QuadrotorHoverController.vcxproj -> C:\Users\Daman\Desktop\Simulator\Release\QuadrotorHoverController.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Daman\Desktop\Simulator\Release\QuadrotorHoverController.exe;#1" /manifest Release\QuadrotorHoverController.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\QuadrotorHoverController.unsuccessfulbuild".
+         Touching "Release\QuadrotorHoverController.lastbuildstate".
+     1>Done Building Project "C:\Users\Daman\Desktop\Simulator\QuadrotorHoverController\QuadrotorHoverController.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.15
